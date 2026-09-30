@@ -435,6 +435,55 @@ Catatan naskah: ditulis pada potongan dari pakaian orang yang dituju, pada malam
 
 **Telaah filologi:** bentuk baris-baris kode ini mirip majmu'ah "asma haa' tauniyat" di kitab-kitab syamsusy-syumuus; tidak berarti sesuatu bagi pembaca awam — maknanya pada lambang; kajian sekadar menandai susunannya tanpa tafsir/relaksasi penggunaannya.
 
-**'ILAAJUL-AKZAMAH WA HABBISY-SYABAAB WASH-SHUDFANAH?** — obat untuk **ekzema, bruntusan (habby syabaab/jerawat), dan psoriasis (shudafian? = shudafiyyah)**: 1 kg daun **dafalah** (nabuur) dan 1 kg garam kasar direbus dalam 5 liter air; setelah air tinggal setengah liter, airnya dioles pada bagian badan yang sakit beberapa hari (herbal topikal).
+**'ILAAJUL-AKZAMAH WA HABBISY-SYABAAB WASH-SHUDFANAH?** — obat untuk **ekzema, bruntusan (habby syabaab/jerawat), dan psoriasis (ash-shudafiyyah)**: 1 kg daun **dafalah** (nabuur) dan 1 kg garam kasar direbus dalam 5 liter air; setelah air tinggal setengah liter, airnya dioles pada bagian badan yang sakit beberapa hari (herbal topikal).
+
+---
+
+# BATCH 8 (Halaman PDF 36–40 = cetak 47, 46, 49, 50, 51) — cetak 48 hilang; cetak 47 & 46 tertukar dalam pindaian
+
+## Halaman PDF 36 (= cetak 47) — penutup (sambungan cetak 46) + 'ILAAJU AALAMIL-AKTAAF WAR-RO'S
+
+**Penutup bab sebelumnya:** penggalan kode nama — "...(wa zalii-kaaa?) bismi ... fii hubbi fulaan ibni fulaanatin binti fulaanah — bismillaah, ... haqqir-rohmaan haqqir-rohiim" *(penggalan rajah dari bab sebelumnya; tidak cukup potongan untuk ditelaah penuh pada bagian ini)*.
+
+**'ILAAJU AALAMIL-AKTAAF WAR-RO'S (nyeri pundak dan kepala):** bahan-bahan — tiap 200 g: **handzhal** (henzala), **sadab** (inggu/ruta), **harmal**, **dibaaghur-rummaan (al-lib)** (jelai rebus? = tangkai-akar delima), **hantiit** (hinggu — asafoetida); ditumbuk bersama, ditambah minyak **al-fijal (al-murr? — lobak pahit)** dan cuka tua; diaduk sampai kental seperti lobak kuah kental, ditaruh dalam kantong selama dua minggu dan kemudian badan dioles padanya (herbal topikal).
+
+## Halaman PDF 37 (= cetak 46) — 'ILAAJU DLO'FIL-BASHAR (penglihatan lemah) & LIS-SHULHI BAINAZ-ZAUJAINIL-MUTAKHOSHIMAIN
+
+**'ILAAJU DLO'FIL-BASHAR:** ditulis pada bejana "*allaahu nuurus-samaawaati wal-ardh*" — "Allah Cahaya langit dan bumi" (QS. an-Nuur: 35); dimasukkan air hujan dan ditutup sepekan; dipakai sebagai tetes mata tiap hari selama 3 hari berturut pada bulan ganjil — satu, atau tiga, atau lima kali dalam bulan itu (menurut naskah), pada bulan yang berdampingan (bogort). **Telaah filologi:** ciri kalender ganjil / pembilang bulan ini umum dalam "wasfa" rakyat.
+
+**LIS-SHULHI BAINAZ-ZAUJAINIL-MUTAKHOSHIMAIN (mendamaikan suami-istri yang saling berselisih):** ditulis pada kertas dengan za'faran:
+
+> *Bismillaahir-rohmaanir-rohiim. Allaahumma innii alqaitu asmuka — anta llaahu, laa ilaaha illaa anta, wahdaka laa syariika lak, wa anna muhammadan 'abduka wa rosuuluk; lakal-mulku wa lakal-hamdu — tuhyii wa tumiitu; bi-yadikal-khair; wa huwa 'alaa kulli syay-in qodiir. Allaahumma ashlih lahumaa kamaa ashlihta baina Yuusuf ...*(bersambung halaman berikutnya)
+> "Dengan nama Allah yang MahaPengasih lagi MahaPenyayang. Ya Allah, sungguh aku singgung nama-Mu: Engkaulah Allah, tiada tuhan selain Engkau, Esa, tiada sekutu bagi-Mu, dan Muhammad hamba serta utusan-Mu. Bagi-Mu kerajaan dan bagi-Mu pujian — Engkau menghidupkan dan mematikan; di tangan-Mu kebaikan; dan Dia Maha kuasa atas segala sesuatu. Ya Allah, damaikanlah atas mereka berdua seperti Engkau mendamaikan antara Yusuf..."
+
+## Halaman PDF 38 (= cetak 49) — THILASM LIL-'IZZ WAL-JAAH (tilsam kemuliaan & kedudukan — bahan kajian)
+
+Catatan naskah: ditulis dengan za'faran hari Ahad sebelum matahari terbit (*qobla thuluu-usy-syams*), dibawa bersama pemiliknya. **Rajahnya:** wafaq **5 baris × 4 kolom** berisi angka-angka tujuh-ratusan (٧١٧ hingga ٧٣٢) dan baris kata yang terbaca *"yaa — nuur — allaah... — muhammadi?؟"* di sisi atasnya garis tulisan rajah "*'amada jaa-akum ramuulun min anfusikum?*" *(kode hurufnya jarang terbaca jelas)*; di kiri-kanan lambang rajah. Tawakkal di bawah wafaq terbaca potongan:
+
+> *Ta-amduru? jaa-akum — fulaa-ibni fulaanah...* — kajian hanya menandai bentuk bingkai tawakkalnya; tidak diuraikan perintahnya karena tidak bisa dibaca utuh *(kode rajah)*.
+
+**Telaah filologi:** angka 717–732 adalah wafaq berbilang tsu"I'm laa-haa? — khas de'awwat ramal angka; bobotnya ada pada tujuannya (kemuliaan-kedudukan), bukan pada operasionalnya — kajian mendokumentasikan sisi formulanya.
+
+![Gambar Rajah Asli Halaman PDF 38 (= cetak 49) — wafaq angka tilsam 'izz & jaah](rajah/rajah_p38_wafaq_arqam_izz.png)
+
+## Halaman PDF 39 (= cetak 50) — LITHARDIS-SIHR & penutup LITHARDIL-JINN (campur garam-cuka)
+
+**LITHARDIS-SIHR WAL-JINN:** campuran garam dan cuka dibacakan:
+- ayat **"jaa-al-haqqu wa zahaqal-boothil"** ("Telah datang yang haq dan musnahlah yang batil", QS. al-Israa': 81) **313 kali**;
+- 71 kali ayat *"yaa ma'syarol-jinni wal-insi... laa tanfudzuuna illaa bi-sulthoon"* (QS. ar-Rahman: 33);
+- doa permintaan: *"yaa man adzallas-saharota bi-'a'jaaza Muusaa — azla sihro as-sahara wa kaidal-fujjarto azalj? ... bi-qudratika bi-rohmatik"* — "wahai yang menghinakan penyihir-penyihir dengan mukjizat Musa, gugurkanlah sihir para penyihir dan tipu daya para pendurhaka dengan kudrat-Mu, dengan rahmat-Mu."
+
+Rumah dicuci dengan cairan tersebut; diminum sebagai minuman seduhan (syaaih) tiap pagi perut kosong selama 3 hari (kajian).
+
+## Halaman PDF 40 (= cetak 51) — penutup "LITHARDIL-JINN" + LIFAAKUL-QAID (memlonggarkan ikatan)
+
+**Penutup:** (lanjutan dari cetak 50 — judul LITHARDIL-JINN ba'da Yasiin/Waaqi'ah/Rahman + ayat jinn 71 kali) — lalu "(al-Mu'awwidzatain) masing-masing 7 kali; garam dilarutkan dalam air dan dipakai mencuci (membasuh) rumah".
+
+**LIFAAKUL-QAID (membuka ikatan — hajat keterperapan urusan):** naskah mencatat: shalat dua rakaat sebelum azan maghrib dengan niat "fakkul-qaid"; letakkan Al-Qur'an di atas kepala dan ucapkan:
+
+> *Bi-haqqi haadzal-quraani, wa bi-kulli harfin fii haadzal-quraani — an tafukka qoidii anaa fulaanu-ibnu fulaanah.*
+> "Demi kebenaran Al-Qur'an ini dan demi setiap huruf dalam Al-Qur'an ini — agar Engkau melepaskan ikatanku, aku Fulan bin Fulanah."
+
+Lalu membaca surat **Yuusuf** dan **Yasiin** dan **doa al-masyhuul** dari kitab **Mafaatiihul-Jinaan**; diulang tiap Kamis tiga pekan. **Telaah filologi:** rujukan langsung ke kitab *Mafaatih al-Jinan* (kumpulan doa syaikh 'Abbas al-Qummi) — jejak jelas latar perpustakaan Syi'i penulisnya (tersusun pula di beberapa ungkapan "shollallaahu 'alaihi wa aalih").
 
 ---
