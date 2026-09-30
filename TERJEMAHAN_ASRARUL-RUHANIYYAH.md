@@ -272,3 +272,57 @@ Di bawahnya kalimat doa:
 **LIS-SYIFAA MINAL-AMROODH (air zamzam):** dibacakan pada air zamzam 6 hari berturut: hari pertama Al-Fatihah 300 kali; hari kedua Al-Ikhlas 1.000 kali; hari ketiga shalawat 1 kali dan Ayat Kursi 14 kali; hari keempat surat Yaasiin dan Thaahaa; hari kelima surat Alam Nasyrah — *(lanjutan hari keenam di halaman berikutnya).*
 
 ---
+
+# BATCH 5 (Halaman PDF 21–25 = cetak 29, 28, 30, 31, 32) — cetak 29 & 28 tertukar dalam pindaian
+
+## Halaman PDF 21 (= cetak 29) — penutup resep dupa + LIR-RIZQ (asma Agung)
+
+**Penutup (sambungan bahan dupa dari hlm. 28):** ... **sandaruus** (getah damar) 50 g — semua bahan diuleni air mawar, dikeringkan di tempat gelap, lalu dipakai membakar dupa pagi dan petang selama sepekan penuh.
+
+**LIR-RIZQ:** ditulis pada kertas yang putih "asmau rasulil-a'zhom shollallaahu 'alaihi wa aalih" — menurut naskah nama rahasia Rasul itu adalah: **al-Ghofuuru, ar-Rohiimu, al-Yatiimu(—dalam naskah demikian; kemungkinan salah cetak—), ash-Shobuuru, asy-Syakuuru**; lalu ditulis doa:
+
+> *Yaa allaah, yaa allaah, yaa alloh; yaa robb, yaa robb, yaa robb; yaa hayy yaa qoyyuum; yaa hayy yaa qoyyuum yaa dzal-jalaali wal-ikroom; yaa dzal-jalaali wal-ikroom. Allaahumma as-aluka bismikal-a'zhom an tarzuqnii rizqon halaalan thoyyiban bi-rohmatika laa yanbadzu abadan.*
+> "Ya Allah (3×), ya Rabbi (3×), Wahai Yang Hidup lagi Yang Maha berdiri (2×), wahai Pemilik keagungan dan kemuliaan (2×). Ya Allah, aku meminta demi nama agung-Mu, agar Engkau memberiku rizki yang halal lagi baik, dengan rahmat-Mu, yang tak pernah habis selamanya."
+
+Doa ini ditulis (menurut naskah) tiga kali dan diletakkan di rumah atau tempat usaha.
+
+## Halaman PDF 22 (= cetak 28) — penutup LIS-SYIFAA MINAL-AMROODH (zamzam) + BUKHUUR LIMAN'IL-MASSA MINAL-JINN
+
+**Penutup bab zamzam:** hari keenam al-Mu'awwidzatain (al-Falaq dan an-Naas) masing-masing 9 kali; tiap hari air dibacakan dalam keadaan tertutup; setelah tuntas, air dibagi dua: separuh untuk diminum, separuh untuk membasuh — selama sepekan.
+
+**BUKHUUR LIMAN'IL-MASSA MINAL-JINNI WASY-SYAITHOON** (bahan dupa penangkal "sentuhan" jin-setan): tiap 50 g — **harmal**, **khorruub** (karob), **jaawi** (kemenyan jawa), **libaan dzakar** (kemenyan jantan), **may'atun saa-ilah** (sejenis damar cair), **za'faraan** (safron) … *(lanjutannya: sandaruus 50 g — disebut di atas halaman 29 sesuai susun teks pindaian yang terbalik).*
+
+## Halaman PDF 23 (= cetak 30) — THILASM LITHARDIT-TAA-BI'AH MUJARRAB WA QOWIYY (tilsam menanggalkan roh pengikut — versi ampuh menurut klaim naskah)
+
+Catatan naskah identik dengan bab sebelumnya (hlm. 13): ditulis pada 12 potong kain waktu maghrib; tiap potong dililitkan ke sebatang lilin yang ujungnya dicelup naft (minyak hitam); dibakar dan tempat'nya hammaam. **Rajahnya** adalah lingkaran saroni besar penuh huruf-huruf kode dengan lambang-lambang pemutaran *(kode rajah — hampir seluruhnya tidak bisa dibaca; hanya fragmen angka ٤٩٩٢... dst. dan kata terputus terlihat)*. Pada salinan tangan ini terdapat catatan pembaca kitab di pinggir tulisan: **"wal-hadzar"** — tanda "hati-hati/waspada" yang ditambahkan kemudian — bukti bahwa bab seperti ini dianggap seram pula oleh pemilik naskahnya.
+
+![Gambar Rajah Asli Halaman PDF 23 (= cetak 30) — tilsam lingkaran penanggalkan taabi'ah](rajah/rajah_p23_tilsam_thard_tobiah.png)
+
+## Halaman PDF 24 (= cetak 31) — 'ILAAJU WAJA'IR-RO'S & 'ILAAJU AUJAA'IL-ARJIL (pengobatan herbal: sakit kepala & kaki)
+
+**Sakit kepala:** campuran cengkeh 50 g, habbatus-sawdaa' (jintan hitam) 50 g, kayu manis 50 g — dicampur bersama dengan air; diminum 1 sendok teh saat perut kosong selama 7 hari (dicatat kajian).
+
+**Nyeri kaki:** **handzhal** (henzala — tanaman pahit), **harmal**, garam, dan cuka direbus dalam periuk hingga menjadi hangat; setelah hangat, kaki direndam di dalamnya (dibuatkan kompres/rendaman hangat) selama beberapa hari secara berulang.
+
+**Telaah filologi:** keduanya resep rumahtangga tradisional; obat-obat tersebut amat keras (handzhal sangat pahit dan beracun dosis tinggi) — penelitian hanya mendokumentasikan, tanpa anjuran penggunaan.
+
+## Halaman PDF 25 (= cetak 32) — LA IBTHAAL AS-SIHR WA IZAALATUH + KHAATIM LITHARDIL-'AARIDH WAS-SIHR WAL-HAWAA
+
+**LA IBTHAAL AS-SIHR (doa):**
+
+> *Ilaahii khorojtu min haulii wa quwwatii ilaa haulika wa quwwatika, wa laa haula wa laa quwwata illaa billaah. Allaahumma-ij'al lii fii kulli kalimatin atluuhaa rohmatan wa syifaa-a birohmatika yaa arhamar-roohimiin.*
+> "Tuhanku, aku keluar dari dayaku menuju daya-Mu... Ya Allah, jadikanlah pada setiap kalimat yang kubaca rahmat dan kesembuhan dengan rahmat-Mu, wahai Yang Terkasih di antara para pengasih."
+
+Lalu (menurut naskah) dibaca surat Yaasiin, dan tiap kali sampai pada kata **مبين** (mubiin) dalam suratnya, diucapkan:
+
+> *Yaa man adzallas-saharota bi-'ajaaza Muusaa — allaahumma azlil-sihra min fulaan ibni fulaanah, bismikal-aa'jil ('a'zhomil)-aa'zil-aa'jiz... allaahummaj'alil-haqqo haqqon wa azhiqil-boothil.*
+> "Wahai yang menghinakan para penyihir dengan mukjizat Musa — Ya Allah, gugurkanlah sihir dari Fulan bin Fulanah, demi nama agung-Mu yang perkasa; Ya Allah, nyatakanlah yang haq sebagai haq dan hancurkanlah yang batil." (dijalankan sepekan, tiap hari.)
+
+**KHAATIM LITHARDIL-'AARIDH WAS-SIHR WAL-HAWAA** — khatam/segel yang diklaim kuat-teruji untuk jasmani: ditulis di kertas; bagian isi yang tercetak terbaca hanya pembuka lalu kode rajah *(tidak terbaca jelas)*:
+
+> *Ihriquul-'aaridha fii jismi fulaan ibni fulaanah, wa abthiluu kulla sihri... tholmaa-sa-'un (٣٣)?? — ahha (٥)?? — salmawiyyah nahbiirah?? (kode rajah — tidak terbaca jelas)*
+> "Bakar/hanguskanlah gangguan (ilmu) dalam tubuh Fulan bin Fulanah, dan binasakanlah tiap sihir..."
+
+**Telaah filologi:** bab ini menampilkan peralihan dari doa murni (penawar sihir bertema mukjizat Musa) ke bentuk khatam kode-khoss; riwayat kode-khoss (dikaiu "khotim sayyidi") di kajian direkam apa adanya dari naskah, tanpa tafsir teknis yang dapat dipakai.
+
+---
