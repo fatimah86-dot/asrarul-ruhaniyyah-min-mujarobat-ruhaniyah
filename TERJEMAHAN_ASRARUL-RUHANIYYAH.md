@@ -215,3 +215,60 @@ Catatan naskah: tilsam ditulis dengan za'faran pada kertas, ditaruh dalam bekas 
 **Telaah filologi:** "qasam 'azhiim" (sumpah besar) adalah ungkapan ruhani dalam tradisi de'ama' (doa khoss); titiknya ba-ya merujuk pada **بسم الله الرحمن الرحيم** yang dimulai ba dan diakhiri huruf ya ("...الرحيم") — simbolisme abjad khas kitab mujarrabat.
 
 ---
+
+# BATCH 4 (Halaman PDF 16–20 = cetak 24, 23, 25, 26, 27) — cetak 24 & 23 tertukar urutannya dalam pindaian
+
+## Halaman PDF 16 (= cetak 24) — LIQADHAA-IL-HAAJAH WAT-TAGH-YIIR MIN HAAL ILAA HAAL (mengabulkan hajat & mengubah keadaan)
+
+Doa-doa naskah (tiap 1.000 kali):
+
+> *Allaahumma as-aluka bismikal-ladzii yughoyyirul-asyi-yaa'* — "Ya Allah, aku meminta demi nama-Mu yang mengubah segala sesuatu.";
+> *allaahumma as-aluka biqudratikal-latii tughoyyirul-asyi-yaa'* — "... demi kudrat-Mu yang mengubah segala sesuatu.";
+> *allaahumma as-aluka bismikal-ladzii taquulu bihi lill-asyi-yaa-i "kun" fa-yakuun — an tughoyyira suu-a haalii bi-husni haalik* — "... demi nama-Mu yang bila Engkau berfirman kepada segala sesuatu: 'Jadilah', maka jadilah ia — agar Engkau mengubah keburukan keadaanku dengan kebaikan keadaan-Mu."
+
+## Halaman PDF 17 (= cetak 23) — LIZZAWAAJ (pernikahan) & DLO'FIL-MASYI 'INDAL-ATHFAAL
+
+**LIZZAWAAJ:** menurut naskah dilakukan hari Jumat sejam sebelum adzan zhuhur: mandi; shalat dua rakaat; membaca surat Thaahaa 3 kali; lalu ucapan:
+
+> *Yaa waliyya kulli dlo'iif — iilaahii qod a'taituka wa lam ajid adlo'afa minnii — iilaahii qowwinii.*
+> "Wahai pelindung tiap orang lemah. Tuhanku, sungguh aku mendatangi-Mu dan tidak mendapati orang yang lebih lemah dariku. Tuhanku, kuatkanlah aku."
+
+**LIMU'AALAJAH DLO'FIL-MASYI 'INDAL-ATHFAAL** (kelemahan belajar berjalan pada anak): surat al-Hasyr ditulis dengan za'faran pada kertas, diletakkan dalam minyak zaitun; tubuh (anak) diusap dengannya 10 hari berturut-turut (dicatat kajian).
+
+**LIR-RIZQ MUJARRAB:** pada pukul 1 dini hari dibaca: *al-hayyul-qoyyuum* 1.070 kali; *yaa rohiim* 7 kali; dan surat Yaasiin 1 kali.
+
+## Halaman PDF 18 (= cetak 25) — 'ILAAJUT-TA'AB (kelelahan) & LIS-SYIFAA MINAL-AMROODH
+
+**'ILAAJUT-TA'AB:** pada garam kasar dibacakan surat Yaasiin, al-Waaqi'ah, dan ar-Rahman; lalu dibaca 72 kali ayat:
+
+> *Yaa ma'syarol-jinni wal-insi, inistatho'tum an tanfudzuu min aqthooris-samaawaati wal-ardhi fanfudzuu — laa tanfudzuuna illaa bisulthoon.*
+> "Wahai golongan jin dan manusia — jika kamu sanggup menembus penjuru langit dan bumi, tembuslah; kamu tidak akan dapat menembusnya melainkan dengan kekuatan (dari Allah)" (QS. ar-Rahman: 33).
+
+Garam dilarutkan dalam air, dipakai mandi hari Rabu tengah hari (ba'daz-zawaal) dan ditaburkan di ambang pintu (kajian).
+
+**LIS-SYIFAA MINAL-AMROODH:** pada garam dibacakan surat Yaasiin, ar-Rahman, dan al-Jinn; dilarutkan dan dipakai mandi 3 hari berturut: Rabu, Kamis, Jumat (versi lengkap ada rahmat rizq? — naskah: "wa ... bihi" dicatat).
+
+**Telaah filologi:** kedua "resep" di atas adalah _ruqyah binal-milh_ (pembacaan ayat pada garam) — dikenal luas sebagai praktik rakyat; kajian mencatatkan struktur formula tanpa menjamin mujarrab.
+
+## Halaman PDF 19 (= cetak 26) — THILASM LIL-MAHABBAH (tilsam kasih sayang)
+
+Dicatat naskah: ditulis pada potongan kain di hari Sabtu; di dalamnya diletakkan "debu bekas telapak orang yang dikasihi" (turoob min atsaril-mahbuub), dilipat, disimpan di dalam rumah, di tempat yang "tidak dikenal" (tersembunyi). Rajahnya: gambar bingkai dengan huruf-huruf kode rajah di segenap sudutnya; di tengahnya — ayat terpata:
+
+> *Wa alqoitu 'alaika mahabbatan minnii ... (li-tushna'a 'alaa 'ainii)* — "... dan Kucurahkan kepadamu kasih sayang dari sisi-Ku (supaya kamu dibesarkan dalam pengawasan-Ku)." (QS. Thaahaa: 39)
+
+Di bawahnya kalimat doa:
+
+> *Yaa waduud — as-aluka an taj'alal-wadda wal-majda (dengan kemesraan) fii qolbi fulaan ibni fulaanah 'alaa fulaanah binti fulaanah.*
+> "Wahai (Allah) Yang Mahakasih — aku minta Kau letakkan kerinduan dan kemesraan di hati Fulan bin Fulanah terhadap Fulanah binti Fulanah."
+
+**Telaah filologi:** sama dengan bab **hubb** pada cetak 22 — termasuk kategori fikriyat (merebut perasaan); kajian sekadar mendokumentasikan bentuknya, tanpa cara pemakaian, sejalan wasiat "tidak dipakai selain pada yang diridhai Allah".
+
+![Gambar Rajah Asli Halaman PDF 19 (= cetak 26) — tilsam mahabbah dengan ayat Thaahaa 39](rajah/rajah_p19_tilsam_mahabbah.png)
+
+## Halaman PDF 20 (= cetak 27) — LIL-HUSHUUL 'ALAL-'AMAL WA QADHAA-IL-HAAJAH + LIS-SYIFAA MINAL-AMROODH (varian air zamzam)
+
+**LIL-HUSHUUL 'ALAL-'AMAL** (memperoleh pekerjaan): Jumat sebelum terbenam matahari, di atas atap rumah, dibaca 1.000 kali *"yaa mujiib yaa sarii'"* — "wahai Yang Maha mengabulkan, wahai Yang Maha cepat"; lalu *"allaahumma ajib tholabii"* — "Ya Allah, kabulkanlah permintaanku"; ditutup dengan sujud sambil membaca 1.000 kali *"bi-'izzatika wa jalaalika ajib su-aalii"* — "demi keperkasaan dan keagungan-Mu, kabulkanlah permintaanku".
+
+**LIS-SYIFAA MINAL-AMROODH (air zamzam):** dibacakan pada air zamzam 6 hari berturut: hari pertama Al-Fatihah 300 kali; hari kedua Al-Ikhlas 1.000 kali; hari ketiga shalawat 1 kali dan Ayat Kursi 14 kali; hari keempat surat Yaasiin dan Thaahaa; hari kelima surat Alam Nasyrah — *(lanjutan hari keenam di halaman berikutnya).*
+
+---
