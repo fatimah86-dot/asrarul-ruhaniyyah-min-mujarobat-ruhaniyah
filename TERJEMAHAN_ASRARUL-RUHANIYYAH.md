@@ -13,7 +13,7 @@
 > 1. Setiap halaman PDF diberi nomor ganda: **Halaman PDF N (= cetak M)** — nomor cetak adalah nomor yang tercetak di kitab aslinya.
 > 2. Teks Arab digundulkan ke **Latin Pesantren** (huruf Latin biasa: *kh, sy, ts, gh, dz, q, '*; vokal panjang digandakan: *aa, ii, uu*) agar terbaca di HP tanpa kotak hitam ■ — teks Arab aslinya dapat dilihat pada **foto rajah/gambar asli** yang disertakan.
 > 3. Terjemah disajikan dengan **bahasa Indonesia pesantren yang mudah dipahami**, sebagai **kajian filologi** (telaah naskah): menguraikan *apa yang tertulis*, *apa maksudnya*, dan *untuk apa menurut pengarangnya* — **tanpa petunjuk praktik yang memudaratkan (dhoror)**, menjalankan wasiat umum para pengijazah: *"Laa tasta'miluuhu illaa fii maa yurdhillaah"* (jangan memakainya kecuali untuk yang diridhai Allah).
-> 4. Halaman cetak yang **tidak ada dalam pindaian** (hlm. 1–6, 8, 14, 36–37, 40, 48, 56) dicatat apa adanya; urutan sejumlah lembar pindaian terbalik (mis. cetak 11 mendahului cetak 10; cetak 62 sebelum 61) dan dijelaskan di tempatnya.
+> 4. Halaman cetak yang **tidak ada dalam pindaian** (hasil verifikasi: hlm. 1–6, 8, 14, 37–38, 41, 50, 56) dicatat apa adanya; urutan sejumlah lembar pindaian terbalik (mis. cetak 11 mendahului cetak 10) dan dijelaskan di tempatnya.
 > 5. Huruf-huruf rajah/kode tilsam yang tidak terbaca jelas ditandai *(rajah — tidak terbaca)* dan **tidak** diterjemahkan sembarangan; bentuknya dapat dilihat pada foto potongan asli.
 
 > **DAFTAR ISTILAH (glosarium pesantren)**
@@ -97,6 +97,61 @@ Azimat dibawa keduanya empat puluh hari. **Telaah filologi:** pola "hijab = rang
 > "Tahukah engkau siapa yang memiliki nama seperti nama-Ku? Akulah ar-Rahman — carilah Aku, niscaya engkau mendapati-Ku."
 > Lalu sujud dan membaca (bersambung ke cetak 11): *"Allaahumma ghayyir suu-a haalii bi-husni haalik"* (100 kali).
 
-**Telaah filologi:** formula "athlubuni tajiduni" (charilah Aku, kau dapati-Ku) meniru ujaran para sufi tentang nama agung Tuhan (ismil-a'zhom). Dicatat sebagai tradisi lisan, bukan dalil syar'i.
+**Telaah filologi:** formula "athlubuni tajiduni" (carilah Aku, kau dapati-Ku) meniru ujaran para sufi tentang nama agung Tuhan (ismil-a'zhom). Dicatat sebagai tradisi lisan, bukan dalil syar'i.
+
+---
+
+# BATCH 2 (Halaman PDF 6–10 = cetak 12, 13, 15, 16, 17) — cetak 14 hilang dari pindaian
+
+## Halaman PDF 6 (= cetak 12) — LIR-RIZQ (rizki) & LIQADHAA-ID-DAIN (melunasi utang)
+
+**LIR-RIZQ:** berita mujarrab dari "hamba yang fakir": malam Kamis sebelum tidur — (1.000) kali shalawat atas Muhammad dan keluarga Muhammad; (1.000) kali *yaa ghoniy*; (1.000) kali *yaa hayyu yaa qoyyuum*.
+
+**LIQADHAA-ID-DAIN:** ucapan 3.000 kali pukul satu dini hari selama sepekan:
+
+> *Anaa malikul-muluuk, wa bikulli mulkin liyal-miiroots, fa-athlubunii tajidunii.*
+> "Akulah raja segala raja, dan bagi-Kulah tiap kerajaan menjadi warisan — maka carilah Aku, niscaya engkau mendapati-Ku."
+
+**Telaah filologi:** dua bab ini menampilkan genre "dhikir nama-nama Allah dengan jumlah bilangan" yang lazim dalam buku-buku warig (amalan) rakyat; angka-angka besar ditandai sebagai ciri, bukan ketentuan syari'at.
+
+## Halaman PDF 7 (= cetak 13) — TILSAM LITHARDI UMISH-SHIBYAAN (tilsam menanggalkan "ibunda para bocah" — gangguan jin terhadap anak)
+
+Dicatat oleh naskah: tilsam ditulis waktu maghrib pada 12 potong kain; tiap potong dililitkan ke sebatang lilin dan ujungnya dicelup minyak hewani (naft/minyak hitam); lilin-lilin dinyalakan agar potongan-potongan itu terbakar, dan orangnya diasapi/berada di dekatnya hingga padam; tempatnya **al-hammaam** (kamar mandi/uap). Rajahnya: baris-baris kode huruf dan angka *(kode rajah — banyak yang tidak terbaca jelas)* dan lambang segi empat bercorak. Di bawah, di dalam lambang seperti baju, tertulis tawakkal (salinan gundul):
+
+> *Tawakkaluu yaa khidaama haadzat-thilasm, bi-harqi kulli khadhorin au taabi'atin au shobiyyin... jinniyyatin faa-'iyyah binti faa-'iyyah (nama tidak terbaca jelas). al-'Ajiilo, al-'Ajiilo, al-'Ajiilo. as-Saa'ah, as-Saa'ah, as-Saa'ah. al-Wahhaa, al-Wahhaa, al-Wahhaa.* — "(Wahai khadam tilsam ini — musnahkan oleh pembakaran ini setiap roh hadir, roh pengikut, atau bocah jin ... [nama dalam kode rajah tidak bisa dibaca manuskripnya]: cepatlah, sekarang-juga, segera." *(al-'Ajiil/as-Saa'ah/al-Wahhaa = panggilan ruhani khas untuk "buru-buru/segera."*)*
+
+**Telaah filologi:** "Umu'sh-Shibyaan" adalah jenis kepercayaan rakyat Timur Tengah terhadap roh yang menyakiti anak-anak; ditinjau sebagai bahan budaya (antropologi ruhani), dengan wasiat keselamatan.
+
+![Gambar Rajah Asli Halaman PDF 7 (= cetak 13) — tilsam dan kode rajah Umu'sh-Shibyaan](rajah/rajah_p07_tilsam_ummush_shibyan.png)
+
+## Halaman PDF 8 (= cetak 15) — LA IBTHAAL AS-SIHR WAL-'AMAL (menangkal sihir dan pekerjaan sihir), kajian
+
+Catatan naskah: tempat dibakhar dengan kemenyan Jawa dan harmal; memakai pakaian bersih-suci; sebelum surat-surat berikut dibaca, membaca:
+
+> *Khorojtu min haulii wa quwwatii ilaa haulika wa quwwatika, wa laa haula wa laa quwwata illaa bik.*
+> "Aku keluar dari daya dan kekuatanku menuju daya dan kekuatan-Mu; tiada daya dan tiada kekuatan melainkan dengan-Mu."
+
+Lalu dibaca: Al-Fatihah 110×; surat Yaasin 1×; surat at-Tahriim 1×; surat al-Jinn 1×; dan Aayatul-Kursi 14 kali — diulang (menurut naskah) hingga 21 hari.
+
+**Telaah filologi:** formula "khorojtu min haulii wa quwwatii" adalah ungkapan tasawwuf klasik; sampul surat-surat Al-Qur'an yang dibaca merupakan ruqyah qur'aniyyah murni — jurus pengamanan tidak berbahan rajah.
+
+## Halaman PDF 9 (= cetak 16) — lanjutan + 'ILAAJIL-'AQM (pengobatan mandul) WAN-SIDAAD QANAAWAATIR-ROHIM
+
+**Penutup bab "li-izaalat as-sihr wa tashhiil amril-azwaaj":** lanjutan keterangan "letakkan tulisan pada air bersih-suci — digunakan untuk minum dan membasuh, selama 3 hari".
+
+**'ILAAJIL-'AQM:** resep herbal dari daftar biji (masing-masing 50 g): biji **rosyaad** (kress), **karafs** (seledri), **fijal** (lobak), **bashal** (bawang), **qurofah** (kayu manis), **qoronful** (cengkeh), **habbah sawdaa** (habbatussauda' / jintan hitam) — dicampur bersama, direndam air 4 hari, diminum setengah gelas pagi dan petang, selama 21 hari.
+
+**Telaah filologi:** ini bab pengobatan herbal (*thibb shaunii/tumbuhan*); dari sisi kajian, tumbuhan-tumbuhan itu memang bahan obat tradisional kawasan Syam — namun dosis dan ketepatannya tidak diverifikasi ilmiah, jadi kajian hanya mendokumentasikan tanpa anjuran.
+
+## Halaman PDF 10 (= cetak 17) — HIJAAB LIT-TAA-BI'AH WAL-AHLAAMIL-MUZ'IJAH (azimat untuk roh pengikut dan mimpi-mimpi menakutkan)
+
+Cara kitab mencatat: ditulis dengan za'faran pada kertas saat tengah shalat Jumat di kamar bersih-berbukhur tanpa orang lain, lalu diletakkan di dalam bantal tidur. Isi azimat (salinan dan terjemah inti):
+
+> *Akhastum fiihaa wa laa takallamuu. innii a'uudzu bir-rohmani minka in kunta taqiyyan, au ghaira taqiyyin. akhadztu billaahis-samii'il-bashiir 'alaa sam'ika wa 'alaa bashorika... laa sulthaana laka 'alayya wa laa 'alaa sam'ii wa laa 'alaa bashorii wa laa 'alaa sya'rii wa laa 'alaa basyarii, wa laa 'alaa lahmii wa laa 'alaa damii, wa laa 'alaa makhii wa laa 'alaa 'ishbii, wa laa 'alaa 'izhoomii, wa laa 'alaa maalii, wa laa 'alaa maa rizaqtii. Robbii satarta bainii wa bainaka bi-sitrin-nubuwah, alladzis-tartu an-nabiyyuu-llaahu bihi min salwaatil-jabaabiroti wal-far'auna. Wa Jabroo-iil 'an yamiinii, wa Miikaa-iil 'an yasaarii, wa Isroofiil 'an waroo-ii, wa Muhammadun shollallaahu 'alaihi wa aalih iimaamii — wallaahu muthli'u 'alaiyya bi-mdzi'ik, wa yamna'usy-syaithoon minnii. Allaahumma laa yaghlibu jahluhu anotaka an tastahfazhanii wa tastakhfijanii — Allaahumma ilaikal-tajaat, allaahumma ilaikal-tajaat, allaahumma ilaikal-tajaat harosaka... yaa fulaanu-ibnu fulaanah, shollallaahu 'alaa muhammadin wa aalih.*
+> "Kamu-kamu telah menyelundup ke dalamnya (benda itu) — jangan berkata. Sungguh aku berlindung kepada Yang Maha Penyayang darimu, bila engkau bertakwa (jangan ganggu) atau tidak bertakwa: aku berpegang pada Allah Yang Maha Mendengar lagi Maha Melihat (pelindung) pendengaranmu dan penglihatanmu... Tidak ada kekuasaan bagimu atasku — tidak atas pendengaranku, penglihatanku, rambutku, kulitku, dagingku, darahku, otakku, uratku, tulangku, hartaku, maupun rizkiku. Tuhanku telah membentang tabir Nubuwwah antara aku dan engkau, tabir yang dipakai para nabi melindungi diri dari para raja zalim dan Fir'aun. Jibril di kananku, Mikail di kiriku, Israfil di belakangku, dan Muhammad shollallaahu 'alaihi wa aalih di hadapanku; Allah mengawasiku karena kuat-Mu dan menghalau setan dariku. Ya Allah, kebodohan manusia tak membuat-Mu menyerah untuk melindungi dan menyelamatkanku. Ya Allah, kepada-Mu aku menyandarkan diri (3×) — ya Fulan bin Fulanah... (ditutup shalawat)."
+
+*(bersambung ke halaman berikutnya dengan lanjutan shalawat dan Ayat Kursi.)*
+
+**Telaah filologi:** azimat ini berbentuk doa perlindungan khas Syiria (dengan sebutan malaikat empat penjuru) — dari sudut kajian ia adalah doa umum, tidak mengandung rajah berbahaya.
 
 ---
