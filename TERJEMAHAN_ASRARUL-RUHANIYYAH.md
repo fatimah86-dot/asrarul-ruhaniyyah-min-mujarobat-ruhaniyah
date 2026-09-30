@@ -539,3 +539,44 @@ Catatan naskah: ditulis pada **kertas tujuh kali** (ujungan/unda, permintaan dar
 **L'ILAAJI AUJAA'IL-KATIF WAZH-ZHUR (nyeri pundak dan punggung):** surat al-Waaqi'ah ditulis dengan za'faran; diletakkan dalam minyak zaitun; dioles pada pundak dan punggung (kajian).
 
 ---
+
+# BATCH 10 (Halaman PDF 46–50 = cetak 58, 59, 61, 60, 62) — pasangan contak 61/60 juga tertukar dalam pindaian (inversi POSISI ke-2)
+
+## Halaman PDF 46 (= cetak 58) — THILASM LIL-MAHABBAH (tilsam mahabbah/kasih-menarik hati)
+
+Instruksi: ditulis pada kertas dengan za'faran **hari Sabtu sebelum terbit matahari**, dibawa oleh pengamalnya. **Rajahnya:** **wafaq 3×3** berangka (٦٢٧, ٦٢١, ٦٢٢ / ٦٢٨, ٦٢٣, ٦١٩ / ٦٢٤, ٦٢٦, ٦٢٠) di dalam **lingkaran** yang dipenuhi pengulangan nama **"wadud" (ودود)** dan lambang **وي۶٩٦** — wadud = Yang Maha Pengasih-Mencinta. (kajian).
+
+![Gambar Rajah Asli Halaman PDF 46 (= cetak 58) — wafaq mahabbah lingkaran wadud](rajah/rajah_p46_wafaq_wadud.png)
+
+## Halaman PDF 47 (= cetak 59) — LIS-SIHR WAL-JINN (bahan) + LIL-'AARIDH (bahan dupa)
+
+⚠ **Peringatan keras — kategorinya dhoroor:** **LIS-SIHR WAL-JINN (FA"AAL MUJARRAB)** menuliskan penggunaan **kepala kambing hitam** yang direbus airnya, dipakai membasuh rumah dengan air rebusan itu, lalu kepala ditimbun di ambang pintu rumah atau di kebun. Berdasarkan wasiat *Laa tasta'milhu illaa fii maa yurdlhillah* dan kaidah *laa dhororo wa laa dhiroro*, bab ini **tidak ada satupun bagian yang dapat dipraktikkan** (bangkai-penguburan-najis, hierarki i'tikod yang memakai media hewan); di kajian hanya dicatat keberadaannya sebagai celim takhayyul yang diselingkan penulis di antara bahan-bahan sholih.
+
+**LIL-'AARIDH (bahan dupa):** campur dan satukan: sandaruus 50 gr, harmal 50 gr, biji khorruub 50 gr, khardal 50 gr, hantiit (hinggu) 50 gr, thobaasyiir 50 gr, handzhal 50 gr, libaan dzakar (kemenyan jantan) 50 gr, sadab murr (inggu laut) 50 gr — *(lanjut PDF 49 pada cetak 60 bawah)*.
+
+## Halaman PDF 48 (= cetak 61) — (penutup bab Amiryyaat? sebelumnya) + LIR-RIZQ + LIZZAWAAJ (pembuka)
+
+Penutup bab: "...supaya selesai pada hari Kamis sebelum azan maghrib, lalu bersujud dan mengucapkan saat sujud **seratus kali: 'Subbuuhun Qudduusun Robbul-malaa-ikati war-ruuh'** ('Maha Suci, Maha Kudus, Tuhan para malaikat dan ar-Ruuh')."
+
+**LIR-RIZQ (pintu rizki):** dibaca 1000 kali "**yaa hayyu yaa qoyyuum**" pada pukul satu setelah tengah malam selama seminggu; lalu didoakan:
+
+> *As-aluka bi-haqqil-Quraani wa tilaawatih — wat-Tawroh wa maa fiihi wal-Injiil wal-Zabuur — wa hamalati 'arsyikal-kariim. As-aluka bi-yaa-siin wal-Imaamil-mubiin — illa? mal ghairota haalii bi-husni haalik.*
+> "Aku memohon kepada-Mu dengan kebenaran Al-Qur'an dan membacanya, dengan Taurat dan isinya, Injil, Zabur dan para pembawa 'Arsy-Mu yang mulia. Aku mohon dengan kebenaran Yaasiin dan 'Imam yang nyata — agar Engkau mengubah keadaanku dengan kebaikan keadaan-Mu."
+
+**LIZZAWAAJ (pernikahan/menjemput jodoh):** ditulis pada kertas dengan air mawar dan za'faran: "*bil-qalam bahr(?) ilallaili wan-nahaar bismillaahi ta'aalaa wa nuzzila minal-Qur-aani maa huwa syifaa-ur-rohmoh lil-mu'miniin...*" ("dengan pena ... kepada malam dan siang; dengan nama Allah Yang Maha Tinggi; dan Kami turunkan dari Al-Qur'an apa yang menjadi penawar dan rahmat bagi kaum mukminin", al-Israa': 82) — *(lanjut)*.
+
+## Halaman PDF 49 (= cetak 60) — penutup bahan dupa + LIL-AR-THIBAATH WAL-ZAWAAJ + LITHARDIL-QORIIN WAT-TAABI'AH (pembuka)
+
+**Penutup dupa (cetak 60 atas):** ... + **cuka asam (khollu haamidh) 50 gr**; semua bahan diuleni, dikeringkan di tempat teduh; dipakai membakhar penderita ('aaridh) pada pagi dan petang selama sepekan (kajian).
+
+⚠ **LIL-IR-THIBAATH WAS-ZAWAAJ (untuk pengikatan pernikahan):** naskah menulis — diambil 21 butir merica; dibacakan oleh **gadis yang belum baligh seratus kali surat at-Tauhiid**, lalu dibakar dengan niat mengikatkan pernikahan si Fulan bin Fulanah kepada Fulanah binti Fulanah. Kategori **fikriyyat/ir-thibaath** ini sama hukumnya (perbuatan bertujuan menetapkan pasangan secara ghoib, batil) — **tidak boleh dipraktikkan**; dicatat di kajian.
+
+**LITHARDIL-QORIIN WAT-TAABI'AH (menanggalkan qoriin & taabi'ah yang mengikuti):** dimulai **wudhu pada hari Sabtu, bernadzar mengkhatamkan Al-Qur'an untuk ar-Rasulil-A'zham (shollallaahu 'alaihi wa aalih)** dengan niat tersebut; mulai membaca mushhaf pada hari Ahadnya — *(tutupan/unggahan khatamnya lanjut halaman berikut)*.
+
+## Halaman PDF 50 (= cetak 62) — penutup LITHARDIL-QORIIN + 'ILAAJUL-'AQM WANSIDARD? WAN-SIDAAD QONAWAATIR-ROHM (kemandulan & sumbatan saluran rahim — bahan)
+
+**Penutup khatam qoriin:** ditutup dengan deratan asma: **"ا — ء ، ح — م ، و" (alif-hamzah-haa-miim-waw) dan bilangan ١١١١٩١١١** khusus *(lambang gundul tidak terbaca rinci; ditulis apa adanya)*; lalu kertas ditaruh dalam air, dipakai mandi sepekan; setelah berakhir pekannya dibaca **Tiap Kamis dan Jumat sebelum subuh** selama dua pekan: surat **al-Faatihah, al-Mu'awwidzatain, Alam-Nasyrah (ash-Syarh) dan Idzaa jaa-a** (kajian).
+
+**L'ILAAJIL-'AQM WA INSIDAADI QONAWAATIR-ROHHIM 'INDAL-MAR-AH** (mandul dan tersumbatnya saluran rahim pada perempuan — bahan): biji **rasydaad** (tumbuhan selada-air) 50 gr, biji **karafs** (seledri) 50 gr, biji **fijal** (lobak) 50 gr, biji bawang 50 gr, biji **qurfah** 50 gr, biji **kronful** (cengkih) 50 gr, **habbatus-saudaa** (jintan hitam) 50 gr — *(lanjut)*.
+
+---
