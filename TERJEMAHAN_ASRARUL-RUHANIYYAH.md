@@ -155,3 +155,63 @@ Cara kitab mencatat: ditulis dengan za'faran pada kertas saat tengah shalat Juma
 **Telaah filologi:** azimat ini berbentuk doa perlindungan khas Syiria (dengan sebutan malaikat empat penjuru) — dari sudut kajian ia adalah doa umum, tidak mengandung rajah berbahaya.
 
 ---
+
+# BATCH 3 (Halaman PDF 11–15 = cetak 18, 19, 20, 22, 21) — cetak 22 & 21 tertukar urutannya dalam pindaian
+
+## Halaman PDF 11 (= cetak 18) — penutup HIJAAB LIT-TAABI'AH + pembuka SHOLAWAAT LIQADHAA-IL-HAAJAAT
+
+**Penutup bab (ambil dari sambungan hlm. 17):** doa ditutup dengan:
+
+> *'alaa muhammadin wa aalih — ALIM. allaahu laa ilaaha illaa huwal-hayyul-qoyyuum;　laa ta'khudzuhuu sinatun wa laa naum;　lahu maa fis-samaawaati wa maa fil-ardh... waw ma'a tath-thuuwau ... sadza-l-ladzii yasfa'u 'indahuu illaa bi-idznih. ya'lamu maa baina aidiihim wa maa khalfahum, wa laa yuhiithuuna bi-syay-in min 'ilmihii illaa bi-maa syaa-aa. wasi'a kursiyyuhus-samaawaati wal-ardh, wa laa yuuduhuu hifzhuhumaa, wa huwal-'aliyyul-'azhiim* — **Ayat Kursi** seluruhnya;
+> lalu *laa haula wa laa quwwata illaa billaah;　laa malja-a minallaahi illaa ilaihi;　hasbiyallaahu wa ni'mal-wakiil;　wa uslimtu ilaa ro'sisy-syuhada (ilaa makbaril-muqaddas tarsal)?　—　washollallaahu 'alaa muhammadin wa ahlibaitihith-thoohiirin, wa sallama tasliiman katsoiron;　walhamdu lillaahi robbil-'aalamiin;　wash-sholaatu wasn't-salaamu 'alaa muhammadin wa aalihith-thoohiriin*.
+> "Tiada daya selain dengan Allah; tiada tempat berlindung dari Allah melainkan kembali kepada Allah; cukuplah Allah bagiku, sebaik-baik penolong; dan aku pasrahkan... Shalawat dan salam atas Muhammad dan keluarganya yang suci secara berlimpah."
+
+**Pembuka bab SHOLAWAAT LIQADHAA-IL-HAAJAAT (shalawat-shalawat untuk memenuhi hajat):** dibaca rangkaian shalawat, ragam pertamat:
+
+> *Allaahumma sholli 'alaa muhammadin wa aali muhammad bi-'adadi qathroothil-mathor* (1.000 kali) — "Ya Allah, limpahkanlah shalawat atas Muhammad dan keluarga Muhammad sebanyak tetes hujan."
+
+## Halaman PDF 12 (= cetak 19) — penutup SHOLAWAAT + pembuka BUKHUUR LIMAN'AS-SIHR
+
+Lanjutan ragam shalawat (masing-masing 1.000 kali):
+
+> *bi-'adadi maa bainas-samaa-i wal-ardh* — "sebanyak (ruang) antara langit dan bumi";
+> *bi-'adadan-nujuum maa baraza wa mandatsar* — "sebanyak bintang yang tampak dan yang tersembunyi";
+> *bi-'adadi waroflotisy-syajar* — "sebanyak lembaran daun pepohonan";
+> *bi-'adadi qathroothin-nadaa* — "sebanyak tetesan embun."
+
+**BUKHUUR LIMAN'AS-SIHR WAL-'AARIDH (dupa penghalau sihir dan 'aridh):** bahan yang tercatat, tiap 100 gram: **as-sarab** (kemenyan arab/incense), **syajaroh maryam** (pohon "Maryem"/resin khusus), **harmal** (biji harmal), dan **khardal** (biji sawi) ...
+
+## Halaman PDF 13 (= cetak 20) — lanjutan dupa + 'ILAAJIL-QOULUUN (pengobatan asma) — kajian
+
+Sisa bahan dupa: **jaawi** (kemenyan Jawa) 100 g, **za'faraan** 100 g, **badzar khorruub** (biji karob) 100 g, **libaan dzakar** (kemenyan jantan) 100 g, **sandaruus** (getah damar cemara) 100 g. Cara naskah: bahan ditumbuk, diuleni cuka, dibentuk bola-bola, dikeringkan di tempat gelap; digunakan membakar dupa 21 hari, pagi dan petang.
+
+**'ILAAJIL-QOULUUN (asma):** tempat si sakit dibersihkan dan disucikan; oleh orang lain, dibacakan ke dekat kepalanya saat ia tertidur, sebelum terbenam matahari:
+
+> *Khorojtu min haulii wa quwwatii ilaa haulika wa quwwatika, wa laa haula wa laa quwwata illaa billaah.*
+> Lalu dibacakan: **surat Yaasiin 3 kali dan Al-Fatihah 110 kali**.
+
+**Telaah filologi:** "al-qoulun" adalah asma yang dipercaya turun karena pengaruh ruhani; amalan ini murni pembacaan ayat — ruqyah qur'aniyyah tanpa rajah.
+
+## Halaman PDF 14 (= cetak 22) — THILASM LIL-HUBB WAL-'ASYQ (tilsam rasa cinta) — bahan kajian filologi saja
+
+Catatan naskah: tilsam ditulis dengan za'faran pada kertas, ditaruh dalam bekas (dibungkus), dijahit rapat lalu ditimbun di tempat yang "tidak sampai ke sana manusia atau hewan". Rajahnya berupa **kotak tiga baris huruf kode rajah** (huruf-huruf terputus dan angka 111, 848?, 911 di sisi-sisinya) dengan teks kode di bawahnya — huruf-hurufnya *(kode rajah — sebagian besar tidak bisa dibaca)*: "ع م ١ … ط ٥ لـــه البلاد جمع / به ه و ١١ هيج دور حرار / هيصراجع … احرك ادك حرك ادك اول كوناي سواها". Di bawahnya kalimat tawakkal diulang 7 kali (dalam transkripsi):
+
+> *Yaa khudoama haadzihil-asmaa, ihriquu qolba fulaan ibni fulaanah, bi-hubbi fulaanatin binti fulaanah.*
+> "Wahai para khadam nama-nama ini, panaslah hati si Fulan bin Fulanah dengan cinta Fulanah binti Fulanah."
+
+**Telaah filologi — penting:** bab ini termasuk kategori "fikriyat/cinta" — pengarahan gaib terhadap perasaan orang tertentu. Dalam kajian ini hanya didokumentasikan nama dan struktur teksnya lalu diserahkan pada wasiat: *laa tasta'miluuhu illaa fii maa yurdhillaah* — perilaku yang mengarah paksaan/merugikan orang lain termasuk **dhoror yang tidak boleh diamalkan** dan teksnya di kajian ini tidak disertai cara penggunaan.
+
+![Gambar Rajah Asli Halaman PDF 14 (= cetak 22) — tilsam hubb & 'asyq (kode rajah dan wadah tawakkal)](rajah/rajah_p14_tilsam_hubb.png)
+
+## Halaman PDF 15 (= cetak 21) — penutup 'ILAAJIL-QOULUUN + pembuka QASAM 'AZHIIM LIR-RIZQ (sumpah agung untuk rizki)
+
+**Penutup bab asma:** ambil **garam kasar (malhun khoselyun)** yang dibacakan: surat ar-Rahman 3 kali; surat Yaasiin 1 kali; al-Mu'awwidzatain (al-Falaq dan an-Naas) masing-masing 7 kali; garam itu dilarutkan dalam air dan dipakai mandi selama sepekan (menurut naskah).
+
+**QASAM 'AZHIIM LIR-RIZQ:** pada lembar besar ditulis *"yaa hayyu yaa qoyyuum"* **92 kali** dan **basamalah 687 (—angka abjad; yang masyhur di kalangan penulis rajah adalah 786, kemungkinan ini salah cetak)** kali — semuanya **huruf per huruf, tersusun melingkar spiral (daairiy halzuuniy)** dimulai dari pusat melawan arah jarum jam; di pusat lingkaran ditulis:
+
+> *Allaahumma aqsamtu 'alaika bin-nuqthatayni ('alā?) — bil-nuqthotilatiy tahtal-baa-i wa bin-nuqthotil-latiy tahtal-yaa-i, an tafukka kulla qofli-liroqii anaa fulaanu-ibnu fulaanah, wa qod aqsamtu 'alaika bi-qoosamin 'azhiim.*
+> "Ya Allah, aku bersumpah demi-Mu, demi titik di bawah huruf ba' dan titik di bawah huruf ya', agar Engkau membukakan setiap kunci rizkiku, aku Fulan bin Fulanah — sungguh aku telah bersumpah demi-Mu dengan sumpah yang agung."
+
+**Telaah filologi:** "qasam 'azhiim" (sumpah besar) adalah ungkapan ruhani dalam tradisi de'ama' (doa khoss); titiknya ba-ya merujuk pada **بسم الله الرحمن الرحيم** yang dimulai ba dan diakhiri huruf ya ("...الرحيم") — simbolisme abjad khas kitab mujarrabat.
+
+---
