@@ -13,7 +13,7 @@
 > 1. Setiap halaman PDF diberi nomor ganda: **Halaman PDF N (= cetak M)** — nomor cetak adalah nomor yang tercetak di kitab aslinya.
 > 2. Teks Arab digundulkan ke **Latin Pesantren** (huruf Latin biasa: *kh, sy, ts, gh, dz, q, '*; vokal panjang digandakan: *aa, ii, uu*) agar terbaca di HP tanpa kotak hitam ■ — teks Arab aslinya dapat dilihat pada **foto rajah/gambar asli** yang disertakan.
 > 3. Terjemah disajikan dengan **bahasa Indonesia pesantren yang mudah dipahami**, sebagai **kajian filologi** (telaah naskah): menguraikan *apa yang tertulis*, *apa maksudnya*, dan *untuk apa menurut pengarangnya* — **tanpa petunjuk praktik yang memudaratkan (dhoror)**, menjalankan wasiat umum para pengijazah: *"Laa tasta'miluuhu illaa fii maa yurdhillaah"* (jangan memakainya kecuali untuk yang diridhai Allah).
-> 4. Halaman cetak yang **tidak ada dalam pindaian** (hasil verifikasi: hlm. 1–6, 8, 14, 37–38, 41, 50, 56) dicatat apa adanya; urutan sejumlah lembar pindaian terbalik (mis. cetak 11 mendahului cetak 10) dan dijelaskan di tempatnya.
+> 4. Halaman cetak yang **tidak ada dalam pindaian** (hasil verifikasi: hlm. 1–6, 8, 14, 36–37, 41, 50, 56) dicatat apa adanya; urutan sejumlah lembar pindaian terbalik (mis. cetak 11 mendahului cetak 10) dan dijelaskan di tempatnya.
 > 5. Huruf-huruf rajah/kode tilsam yang tidak terbaca jelas ditandai *(rajah — tidak terbaca)* dan **tidak** diterjemahkan sembarangan; bentuknya dapat dilihat pada foto potongan asli.
 
 > **DAFTAR ISTILAH (glosarium pesantren)**
@@ -324,5 +324,59 @@ Lalu (menurut naskah) dibaca surat Yaasiin, dan tiap kali sampai pada kata **م�
 > "Bakar/hanguskanlah gangguan (ilmu) dalam tubuh Fulan bin Fulanah, dan binasakanlah tiap sihir..."
 
 **Telaah filologi:** bab ini menampilkan peralihan dari doa murni (penawar sihir bertema mukjizat Musa) ke bentuk khatam kode-khoss; riwayat kode-khoss (dikaiu "khotim sayyidi") di kajian direkam apa adanya dari naskah, tanpa tafsir teknis yang dapat dipakai.
+
+---
+
+# BATCH 6 (Halaman PDF 26–30 = cetak 33, 34, 35, 38, 39) — cetak 36–37 hilang dari pindaian
+
+## Halaman PDF 26 (= cetak 33) — penutup KHAATIM LITHARDIL-'AARIDH + MUSHALAJATUL-'AQM (obat mandul, varian resep bandel)
+
+**Penutup khatam (sambungan dari cetak 32):** dalam lembar khatam ditulis lanjut:
+
+> *... nahbiroh hakkuu (٢) — ajib, yaa mit-thothoruun (nama terputus karena dicoret pada salinan ini) bihaqqi haadzihil-asmaa-i — wahjub wa abthil kulla sihri wa 'aaridhin, wa kulla riihin, wa kulla suu-in 'amman tubakhkhoru bihaadzihil-asmaa-i — al-Wahhaa (٢), al-'Ajalu (٢), as-Saa'ah (٢).*
+> "... demi nama-nama ini: kaburkanlah dan batalkanlah tiap sihir, tiap 'aridh(gangguan), tiap penyakit/angin jahat dan tiap keburukan bagi siapa yang diasapi dengan nama-nama ini — secepatnya, kini juga, saat ini juga."
+
+Catatan filologi: terdapat **coretan pada satu kata** di salinan ini (sebuah nama khoss sengaja dicoret oleh pemilik/pembaca kitab) — tanda budaya menjaga nama-nama rajah. Kertas itu lalu dibakar sambil dibakhar kemenyan jaawi; diulang 3 kali sehari (pagi, tengah hari, sore) selama sepekan, menurut naskah.
+
+**MUSHALAJATUL-'AQM (varian):** biji-bijian yang digiling bersama: rosyaad 100 g, karafs (seledri) 100 g, bawang 100 g, cengkeh 50 g, harmal 20 g — diminum 3 sendok kecil tiap hari (pagi, siang, malam) selama 10 hari, didahului segelas jus lobak saat perut kosong, dan sejam kemudian segelas jus seledri.
+
+## Halaman PDF 27 (= cetak 34) — THILASM LI-'ADAMIN-NAUM 'INDAL-ATHFAAL (tilsam untuk anak yang sulit tidur)
+
+Catatan naskah: tilsam ditulis pada kain dan dibakhar dengan harmal. **Rajahnya** lingkaran berisi huruf-huruf kode dan di tengah tercetak beberapa inskripsi yang terbaca sebagian *(kode rajah)*: angka **٨٨٥٣** dan deretan vav, dan satu frasa yang terbaca jelas di lingkar tengah:
+
+> *"... syaythaanuhuu fii naaril-jahiim — (nama anaknya)"* — "setannya (yang mengganggu) berada di dalam api Jahannam — (nama anaknya)".
+
+**Telaah filologi:** formula "setannya ke neraka" adalah ciri rajah penenang bayi Arab klasik (Umu'sh-Shibyaan complex); dari sudut kajian rajah ini didokumentasikan tanpa cara pemakaiannya.
+
+![Gambar Rajah Asli Halaman PDF 27 (= cetak 34) — tilsam lingkaran untuk anak sulit tidur](rajah/rajah_p27_tilsam_anak_susah_tidur.png)
+
+## Halaman PDF 28 (= cetak 35) — CIRI-CIRI KELUWAS (l'ilaaji katsrotin-naum) & 'ILAAJI DHIIQIN-NAFAS + pembuka 'ILAAJ LIL-IDMAAN
+
+**Kedalu banyak tidur:** jus seledri ditambah zat besi (dari apotek), dijadikan sirup (syaarbuun) selama 4 hari.
+
+**Sesak nafas (dhyiiq an-nafas):** adas manis 250 g dan beras 250 g dicampur susu dan minyak (zaitun), direbus dalam periuk — kemudian si sakit dan periuknya ditutup selimut supaya si sakit mengemutan uapnya (seperti sauna uap), 3 hari berturut (kajian).
+
+**'ILAAJ LIL-IDMAAN (kecanduan):** dibaca kalimat *"shiroothom-mustaqiim"* (jalan yang lurus) — yaitu ayat pembuka Al-Fatihah bagian terakhir — sebanyak **313 kali** pada air, dan orang yang kecanduan minum dari air tersebut (dicatat kajian).
+
+**Telaah filologi:** 313 merujuk jumlah pasukan Badar — simbolisme angka khas; dari segi kajian, pembacaan ayat pada air adalah ruqyah air yang umum.
+
+## Halaman PDF 29 (= cetak 38) — LA IB'AAD ASY-SYARR WAL-HASAD WAN-NAFAS MINAL-MANZIL + LIMAN-I TASAAQUTH ASY-SYA'R (rambut rontok)
+
+**Menghambat keburukan/i-dengki dari rumah:** pada harmal dibacakan surat Yaasiin, al-'Aadiyaat, Thaahaa, dan al-Mu'awwidzatain; lalu diucap:
+
+> *Allaahumma as-aluka bikulli mulkin ilaa wa thordatusy-syarri min haadzal-bait, kamaa yatharodud-dzi'bas-syaat — al-'ajalu, al-'ajalu, as-saa'atu, as-saa'atu — baarokallaahu fiikum.*
+> "Ya Allah, aku meminta demi (nama-Mu) ... kami usir keburukan dari rumah ini sebagaimana serigala mengusir kambing — segera, segera; kini, kini. Semoga Allah memberkati kalian."
+
+Lalu rumah dibakhar dengan harmal (penutup kajian).
+
+**Kerontokan rambut (tasaquth asy-sya'r):** campuran minyak almond pahit 100 g, minyak zaitun 125 g, dan minyak sawi (khordal) 50 g — dicampur dan dioleskan ke wilayah rambut yang rontok di kepala, alis, atau kumis, dari waktu maghrib sampai fajar, selama 21 hari (herbal).
+
+## Halaman PDF 30 (= cetak 39) — THILASM L'ILAAJIL-IDMAAN (tilsam untuk kecanduan: narkoba, khomar, zina dan rokok)
+
+Catatan naskah: tilsam ditulis pada kain dari pakaian si pecandu, dimasukkan ke dalam batang **bambu/tebu kering** (*qoshobatin min nabaatil-qoshob*), dan dicatat "ditimbun di kubur" (wa tudfanahu fii qobrin) — frasa ini menegaskan bahasan **rajah ini termasuk praktik yang tidak boleh dijalankan** (kaitan pada kubur/keburukan) — satu lagi bukti bahwa buku ini memuat campuran bahan dan wasiatnya adalah dipakai "hanya pada yang diridhai Tuhan". **Rajahnya** adalah lingkaran besar berbentuk spiral halzuuniy: huruf-per-huruf melingkar dari luar ke dalam (teks cara bacaannya tidak terbaca seperti tulisan biasa): pada pusat dan lintasan spiralnya terbaca sisa-sisa huruf seperti *"٧ ح و د ب ح و د"* dan *"ز م ث ي س ن"*, serta sisa lambang, angka, dan pengulangan jejak ayat *"shiroothom-mustaqiim"* yang tampak disalin terpisah sepatah-sepatah — keseluruhannya tidak bisa dibaca seperti bacaan biasa (kode rajah).
+
+**Telaah filologi:** bentuknya menunjukkan contoh khas tilsam *halzuuniy mutakarrir* (spiral huruf berulang) — nilai kajiannya adalah dokumentasi bentuk huruf rajah itu sendiri, bukan artinya.
+
+![Gambar Rajah Asli Halaman PDF 30 (= cetak 39) — tilsam spiral besar untuk kecanduan](rajah/rajah_p30_tilsam_idman_halzuni.png)
 
 ---
