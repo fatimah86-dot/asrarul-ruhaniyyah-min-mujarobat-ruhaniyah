@@ -487,3 +487,55 @@ Rumah dicuci dengan cairan tersebut; diminum sebagai minuman seduhan (syaaih) ti
 Lalu membaca surat **Yuusuf** dan **Yasiin** dan **doa al-masyhuul** dari kitab **Mafaatiihul-Jinaan**; diulang tiap Kamis tiga pekan. **Telaah filologi:** rujukan langsung ke kitab *Mafaatih al-Jinan* (kumpulan doa syaikh 'Abbas al-Qummi) — jejak jelas latar perpustakaan Syi'i penulisnya (tersusun pula di beberapa ungkapan "shollallaahu 'alaihi wa aalih").
 
 ---
+
+# BATCH 9 (Halaman PDF 41–45 = cetak 52, 53, 54, 55, 57) — cetak 56 hilang dari pindaian
+
+## Halaman PDF 41 (= cetak 52) — THILASM L'ILAAJISH-SHOR' (tilsam untuk epilepsi)
+
+Naskah: *"wa huwa nafsut-thilasmil-musta'khdam lithardit-taa-bi'ah"* — **rajahnya sama persis** dengan rajah penanggalkan taabi'ah (hlm. 30): lingkaran besar lambang huruf rajah *(tidak terbaca jelas)*, dengan ketentuan pembakaran 12 potong kain yang dililit ke batang-batang lilin sebagaimana keterangan sebelumnya, dikerjakan menurut catatan di hammaam, dengan penjagaan *"ihdzar" — "perhatian/waspada"* yang dicatatkan khusus di ujungnya.
+
+**Telaah filologi:** klasik dalam majmu'ah mujarrabat bahwa satu rajah bertugas ganda; kehadiran tulisan **"احذر"** di akhir bab (teks memperingatkan "berhati-hatilah") konsisten dengan pengakuan pemilik buku akan bahaya penyalahgunaannya.
+
+![Gambar Rajah Asli Halaman PDF 41 (= cetak 52) — tilsam lingkaran epilepsi](rajah/rajah_p41_tilsam_sahr.png)
+
+## Halaman PDF 42 (= cetak 53) — 'ILAAJU IDHTHIROOBIL-HORMUNAAT WAL-GHUDADIL-LIMFAAWIYYAH (gangguan hormon & kelenjar limfa) + pembuka LITAH-SIINIL-HAAL
+
+**'ILAAJU IDHTHIROOBIL-HORMUNAAT:** campuran daun sidr, kapur kamfor dan yaas(?الكافور والياس), semua menjadi halus, berat total 1 kg; dibacakan pada campuran itu: surat Yaasiin 1×, Thaahaa 1×, Al-Fatihah **71 kali**, Aayatul-Kursi 7×, dan al-Mu'awwidzatain masing-masing 7×; dibagi dua: separuh dipakai membasuh badan pada hari Rabu, Kamis dan Jumat; separuh lagi diambil sebagai minuman — 1 sendok teh ditambahkan pada segelas air saat perut kosong, sepekan (kajian).
+
+**LITAH-SIINIL-HAAL (memperbaiki keadaan):** ditulis pada kertas **ayat pertama dari tiap surat Al-Qur'an** dan **Asmaaul-Husna** yang bermakna kelembutan dan kasih-sayang (seperti al-Lathiif, al-Waduud, ar-Rohiim, ar-Rahman, ar-Roof, dll.) — tiap nama 7 kali; dan basmalah 7 kali; dan ayat "*idzaa jaa-a nashrullaahi wal-fath*" ("Apabila datang pertolongan Allah dan kemenangan", QS. an-Nashr) — *(lanjutan ke halaman berikut)*.
+
+## Halaman PDF 43 (= cetak 54) — penutup LITAH-SIINIL-HAAL + LIZAALATIL-'AARIDH WAL-JIN (versi ayat ash-Shaaffaat — diklaim paling kuat)
+
+**Penutup (cetak 53 bawah):** ... kemudian **nama orangnya ditulis (fulaan ibni fulaanah)**; setelah itu kertas dibakhar dengan bukhur, dilipat, dan dibawa oleh pemilik hajat.
+
+**LIZAALATIL-'AARIDH WAL-JINN WA HUWA FA"AAL JIDDAN** — dicatat sebagai amalan "sangat kuat": ditulis dengan za'faran pada kertas **Asmaaul-Husna seluruhnya** dan ayat-ayat berikut (dengan penuh):
+
+> *Baroo-atun minallaahi wa rosuulihii ilalladziina 'aahadtum minal-musyrikiin* — "Pembebasan dari Allah dan Rasul-Nya atas orang-orang musyrik yang kamu ikat perjanjian" (QS. at-Taubah: 1);
+> *Wash-shooffooti shoffaa. faz-zaajirooti zajroo. fat-taaliyaati dzikroo. inna ilaahakum lawaahid* — "Demi (para malaikat) yang berbaris-baris; dan golongan yang menghardik; dan golongan yang membaca pemberitahuan. Sungguh Tuhanmu adalah Yang Maha Esa" (QS. ash-Shaaffaat: 1–4), lalu:
+> *robbus-samaawaati wal-ardhi wa maa bainahumaa, wa robbul-masyaariq — innaa zayyannas-samaa-ad-dunyaa bi-ziinatinil-kawaakibi, wa hifzhon min kulli syaythoonim-maarid. Laa yassamma'uuna ilal-mala-il-a'laa, wa yuqzafuuna min kulli jaanib; duhuuran, wa lahum 'adzaabun waasib; illaa man khothifal-khothfah fa-athba'ahuu syihaabun tsaaqib* — "Tuhan langit-langit dan bumi dan apa di antara keduanya dan Tuhan penjuru timur. Kami hiasi langit dunia dengan perhiasan (bintang), dan Kami jagalah dari tiap setan yang durhaka. Mereka tak bisa mencuri pendengaran di majelis tinggi — dari segala penjuru mereka dilontar, diusir, dan siksa kekal bagi mereka. Kecuali siapa yang mencuri-curi pendengaran, ia dikejar oleh kilat penembus" (QS. ash-Shaaffaat: 5–10).
+
+Setelah itu kertas diletakkan di dalam air dan dibacakan surat **at-Tahriim** dan **al-Jinn**; air itu diminum pada hari Selasa, Rabu dan Kamis, dan sisanya dipakai berwudhu sebelum azan zhuhur (kajian).
+
+## Halaman PDF 44 (= cetak 55) — THILASM LIL-JAM'-I BAINA AL-AHIBBAH (tilsam "penghimpun kasih" antar yang saling mengasihi)
+
+Catatan naskah: ditulis pada **kertas tujuh kali** (ujungan/unda, permintaan dari nama pertama sampai nama yang kedua), ditimbun di rumah; **di sekelilingnya disalin surat an-Nisaa'** dalam bentuk empat belahan lambang di tiap sudut wafaq. **Rajahnya** adalah **wafaq 4×4** yang semua selnya berisi angka-angka panjang tiga-empat digit (umumnya berawalan ٣١٦٤ — misalnya ٣١٦٤٧٧, ٣١٦٤٨٢, ٣١٦٤٨٥, ٣١٦٤٧١, ٣١٦٤٧٣, ٣١٦٤٦٦, ٣١٦٤٧٦, ٣١٦٤٨١, ٣١٦٤٧٠, ٣١٦٤٨١١ — dan dua sel yang berbeda: ٢٨ dan ٨١١) — *(pembacaan beberapa sel tidak pasti karena goresan tangan tipis — angka wafaq dicatat secara visual)*. Tawakkal di bawahnya:
+
+> *Tawakkaluu yaa khodaama surotin-nisaa-i — waj'aluu fulaan ibni fulaanah yahwu fulaanah binti fulaanah — kamaa tahow-wa/tahwya? zailikhoo Yuusufa, wa kamaa tahaw-wa ummu muusaa ibnahaa, wa kamaa ahabba muhammadun shollallaahu 'alaihi wa aalihi ash-haabahu — fii badra(il??)-al-'ajal al-'ajal.*
+> "Tunaikanlah, wahai para khadam surat an-Nisaa': jadikanlah Fulan bin Fulanah mencintai Fulanah binti Fulanah — sebagaimana Zulaikha mencintai Yusuf, sebagaimana ibu Musa (terikat pada) anaknya, dan sebagaimana Muhammad shollallaahu 'alaihi wa aalih mengasihi para sahabatnya — dengan segera, cepatlah."
+
+**Telaah filologi:** bab "jam' (penghimpun rasa)" ini sama kategorinya dengan hubb-'asyq — fikriyat; di kajian sekadar direkam susunan wafaqnya.
+
+![Gambar Rajah Asli Halaman PDF 44 (= cetak 55) — wafaq angka tilsam jam' ahibbah](rajah/rajah_p44_wafaq_arqam_jam.png)
+
+## Halaman PDF 45 (= cetak 57) — LITAGH-YIIRIL-HAAL FA'AALAH JIDDAN + LIQADHAA 'ALAS-SIHR WAT-TAA-BI'AH + pembuka AUJAA'IL-KATIF
+
+**LITAGH-YIIRIL-HAAL (mengubah keadaan — diklaim sangat kuat):** ditulis dengan za'faran **basamalah 365 kali** selesai pada jam 11 pagi, dibawa bersamanya (365 — bilangan hari setahun).
+
+**LIQADHAA 'ALAS-SIHR WAT-TAA-BI'AH (membunuh/memusnahkan sihir & roh pengikut):** dibaca (menurut naskah): surat **ash-Shaaffaat 3 kali**, **sholawat 1000 kali**, lalu:
+
+> *Allaahumma-ij'al lii minash-sholaati 'alaa muhammadin wa aali muhammad tabdiila haalin min suu-in ilaa ahsanin, bi-haqqi muhammadin wa aali muhammad.*
+> "Ya Allah, jadikanlah bagiku melalui shalawat atas Muhammad dan keluarganya pergantian keadaan dari yang buruk kepada yang terbaik — demi kebenaran Muhammad dan keluarganya."
+
+**L'ILAAJI AUJAA'IL-KATIF WAZH-ZHUR (nyeri pundak dan punggung):** surat al-Waaqi'ah ditulis dengan za'faran; diletakkan dalam minyak zaitun; dioles pada pundak dan punggung (kajian).
+
+---
