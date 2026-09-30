@@ -13,7 +13,7 @@
 > 1. Setiap halaman PDF diberi nomor ganda: **Halaman PDF N (= cetak M)** — nomor cetak adalah nomor yang tercetak di kitab aslinya.
 > 2. Teks Arab digundulkan ke **Latin Pesantren** (huruf Latin biasa: *kh, sy, ts, gh, dz, q, '*; vokal panjang digandakan: *aa, ii, uu*) agar terbaca di HP tanpa kotak hitam ■ — teks Arab aslinya dapat dilihat pada **foto rajah/gambar asli** yang disertakan.
 > 3. Terjemah disajikan dengan **bahasa Indonesia pesantren yang mudah dipahami**, sebagai **kajian filologi** (telaah naskah): menguraikan *apa yang tertulis*, *apa maksudnya*, dan *untuk apa menurut pengarangnya* — **tanpa petunjuk praktik yang memudaratkan (dhoror)**, menjalankan wasiat umum para pengijazah: *"Laa tasta'miluuhu illaa fii maa yurdhillaah"* (jangan memakainya kecuali untuk yang diridhai Allah).
-> 4. Halaman cetak yang **tidak ada dalam pindaian** (hasil verifikasi: hlm. 1–6, 8, 14, 36–37, 41, 50, 56) dicatat apa adanya; urutan sejumlah lembar pindaian terbalik (mis. cetak 11 mendahului cetak 10) dan dijelaskan di tempatnya.
+> 4. Halaman cetak yang **tidak ada dalam pindaian** (hasil verifikasi footer: hlm. 1–6, 8, 14, 36–37, 40, 48, 56) dicatat apa adanya; urutan sejumlah lembar pindaian terbalik (mis. cetak 11 mendahului cetak 10; 29 dan 28; 24 dan 23; 22 dan 21) dan dijelaskan di tempatnya.
 > 5. Huruf-huruf rajah/kode tilsam yang tidak terbaca jelas ditandai *(rajah — tidak terbaca)* dan **tidak** diterjemahkan sembarangan; bentuknya dapat dilihat pada foto potongan asli.
 
 > **DAFTAR ISTILAH (glosarium pesantren)**
@@ -378,5 +378,63 @@ Catatan naskah: tilsam ditulis pada kain dari pakaian si pecandu, dimasukkan ke 
 **Telaah filologi:** bentuknya menunjukkan contoh khas tilsam *halzuuniy mutakarrir* (spiral huruf berulang) — nilai kajiannya adalah dokumentasi bentuk huruf rajah itu sendiri, bukan artinya.
 
 ![Gambar Rajah Asli Halaman PDF 30 (= cetak 39) — tilsam spiral besar untuk kecanduan](rajah/rajah_p30_tilsam_idman_halzuni.png)
+
+---
+
+# BATCH 7 (Halaman PDF 31–35 = cetak 41, 42, 43, 44, 45) — cetak 40 hilang dari pindaian
+
+## Halaman PDF 31 (= cetak 41) — LIRUJUU-IL-GHO-IB (kembalinya orang yang hilang/bepergian) & LIL-HUSHUUL 'ALAA FURSHOTIL-'AMAL
+
+**LIRUJUU-IL-GHO-IB:** catatan naskah: dengan pakaian bersih, di tempat yang dibakhar kemenyan jaawi, dibaca: **Qul huwallaahu ahad (surat al-Ikhlas) 1.000 kali**; lalu ayat:
+
+> *Aynamaa takuunuu yudrikukumul-maut* — "Di mana saja kamu berada, kematian akan mendapatkanmu" (QS. an-Nisaa': 4) — setelahnya setiap waktu membaca **surat Thaahaa (206?)**; setelah lima menit dibaca surat Thaahaa; kemudian sujud dan mengucapkan 1.000 kali:
+> *Allaahumma ilaikal-tajaat* — "Ya Allah, kepada-Mulah aku berlindung."
+
+Naskah mencatat dikerjakan pukul 12 tengah malam selama 15 hari. **Telaah filologi:** "kembali orang yang hilang" adalah corak cinta/keluarga (gho-ib = kerabat bepergian) — amalannya murni bacaan Al-Qur'an dan hajat doa, bukan rajah.
+
+**LIL-HUSHUUL 'ALAA FURSHOTIL-'AMAL** (memperoleh kesempatan kerja): ucapan 1.000 kali:
+
+> *Ata'rofu man lahu ismaa ka-asmii? Anar-Rohmaan — athlubunii tajidunii.*
+> "Kenalkah engkau dzat yang memiliki nama seperti nama-Ku? Akulah ar-Rahman — carilah Aku, kau dapati-Ku."
+
+Lalu tangan diletakkan di mulut sambil membaca **ar-Rahman 21 kali**, diusapkan ke wajah; kemudian sujud. (Kajian; tidak ada rajah.)
+
+## Halaman PDF 32 (= cetak 42) — 'ILAAJUL-MARODH (penyakit, umum) + pembuka 'ILAAJ LI-DAA-ITS-TSA'LAB
+
+**'ILAAJUL-MARODH:** dibacakan pada air zamzam atau air hujan yang ditampung langsung dari langit: Al-Fatihah 300 kali; surat Yaasiin 1 kali; shalawat atas Nabi 100 kali; al-Mu'awwidzatain masing-masing 70 kali; surat at-Tauhiid (al-Ikhlas) 70 kali; Aayatul-Kursi 14 kali — airnya diminum (menurut naskah) 10 hari.
+
+**'ILAAJ LI-DAA-ITS-TSA'LAB** ("penyakit rubah" — gangguan rambang kepala/kerontokan rambut yang dipercaya dari ulat buruk, menurut istilah rakyatnya): daun **sidr** dan **yuus/yaasawar?(al-yuus = biji eranga?)** dihaluskan dengan kapur (**kaafur**), lalu dibacakan padanya surat Yaasiin 1×, surat Thaahaa 1×, dan al-Mu'awwidzatain masing-masing *(lanjutan di halaman berikutnya)*.
+
+*(Catatan kajian: "daa-its-tsa'lab" (penyakit rubah) adalah nama rakyat untuk sejenis gangguan kesehatan kulit rambut; sebutan ini dicatat sebagai isi naskah tanpa kesimpulan klinis.)*
+
+## Halaman PDF 33 (= cetak 43) — penutup DAA-ITS-TSA'LAB + 'ILAAJUL-HASAD + 'ILAAJI AUJAA'IL-ASNAAN
+
+**Penutup:** ...masing-masing 1 kali, **dan Aayatul-Kursi 14 kali** — dipakai sebagai bahan wudhu selama dua pekan, di hari Rabu, Kamis, dan Jumat.
+
+**'ILAAJUL-HASAD (kedengkian):** pada air dingin dibaca: al-Mu'awwidzatain, az-Zalzalah, dan Quraisy; lalu dibaca padanya — menurut naskah — "kalimat sebaran" 3 kali, **Jabroo-iil 247 kali**, dan **Baduuhaa 20 kali** (*baduuhaa* adalah gabungan huruf terputus yang sangat masyhur dalam buku-buku ruhani: ba-dzal-waw-ha-alif — سebutan lambang yang berkaitan dengan Jibril; tidak mempunyai makna kalimat biasa). Airnya disimpulkan naskah dituang di muka pintu rumah atau tempat usaha; diulang 3 hari.
+
+**'ILAAJI AUJAA'IL-ASNAAN WAL-LITTSAH (sakit gigi & gusi):** cengkeh, habbatus-sawdaa', harmal, dan **syabbah** (tawas) direndam dari malam sampai pagi; dari pagi sampai petang dipakai berkumur secara berulang.
+
+## Halaman PDF 34 (= cetak 44) — THILASM JALB WA MAHABBAH 'AZHIIM (tilsam penarik kemesraan — bahan kajian)
+
+Catatan naskah: ditulis pada potongan dari pakaian orang yang dituju, pada malam hari malam Selasa atau Rabu atau Kamis; potongan itu dimasukkan di antara bahan **lada hitam (filfil), tawas (syabb), garam, sandaruus, ketumbar, dan jaawi**; lalu dipotong jadi 3 atau 4 bagian dan dibakar; waktu pembakaran dibaca surat al-Jinn 3 kali. **Rajahnya:** **wafaq 4×4** di dalam lingkaran kode huruf — dalam selnya angka **٩ ٧ ٤ ٣ ٩٩ ١١١ ١١٥** dan huruf **ط، ص** serta dua lambang (lingkaran bergaris & tanda silang); kelilingnya huruf-huruf kode rajah yang tidak bisa dibaca *(kode rajah)*.
+
+**Telaah filologi:** termasuk majmu'ah "jalb/mahabbah" — kategori fikriyat (mempengaruhi perasaan orang lain) yang oleh wasiat buku tidak boleh dipraktikkan untuk mudarat; kajian hanya mendokumentasikan bentuk wafaq dan bahannya.
+
+![Gambar Rajah Asli Halaman PDF 34 (= cetak 44) — wafaq angka tilsam jalb & mahabbah](rajah/rajah_p34_wafaq_arqam_jalb.png)
+
+## Halaman PDF 35 (= cetak 45) — KHAATIM LI-HIFZHID-DAAR WAS-SAYYAAROH + 'ILAAJUL-AKZAMAH (ekzema) WA HABBISY-SYABAAB WASH-SHUDFIYYAH
+
+**KHAATIM LI-HIFZHID-DAAR WAS-SAYYAAROH MINASY-SYARR WAL-HAWAADITS (khatam penjaga rumah dan kendaraan dari keburukan dan musibah):** ditulis pada rumah atau pada kendaraan atau pada kertas yang dibawa menurut naskah; akan (diklaim) terjaga dengan idzin Allah dari keburukan musibah dan dari wabah "balaa-as-sulthoon". Isi khatam adalah **tujuh baris kode huruf** (tulisan rajah — latinisasi perkiraan):
+
+> *hiyaa aruuyaa-i — soomaa-yiqi maa-lih /
+> hamaluu hahamu — saa-huu-nuwaa asraa-haa /
+> adiyaa-nuwaa saa-haa-yil waahii /
+> as-sahaa — sariimaa-roma adowaat /
+> shofawaat — huw huw nuu awh laa*
+
+**Telaah filologi:** bentuk baris-baris kode ini mirip majmu'ah "asma haa' tauniyat" di kitab-kitab syamsusy-syumuus; tidak berarti sesuatu bagi pembaca awam — maknanya pada lambang; kajian sekadar menandai susunannya tanpa tafsir/relaksasi penggunaannya.
+
+**'ILAAJUL-AKZAMAH WA HABBISY-SYABAAB WASH-SHUDFANAH?** — obat untuk **ekzema, bruntusan (habby syabaab/jerawat), dan psoriasis (shudafian? = shudafiyyah)**: 1 kg daun **dafalah** (nabuur) dan 1 kg garam kasar direbus dalam 5 liter air; setelah air tinggal setengah liter, airnya dioles pada bagian badan yang sakit beberapa hari (herbal topikal).
 
 ---
