@@ -733,3 +733,103 @@ Daftar isi kitab dimulai di sini (penomoran halaman mengacu halaman cetak — be
 **Telaah filologi:** entri "ummish-shibyaan" mengkonfirmasi nama rajah cetak 13. Daftar isi juga meneguhkan bahwa **hlm. cetak 8, 14 dst. memang bukan pembuka bab baru** (bagian lanjutan), sehingga kesenjangan penomoran terjemahan ini **bukan** kehilangan teks. *(Sambungan fihris di halaman PDF 61–62.)*
 
 ---
+
+# BATCH 13 (Halaman PDF 61–65 = cetak 74, 75, 76, 77, 78) — AL-FIHRIS (Daftar Isi) halaman 2–6
+
+Semua lima halaman ini adalah lanjutan daftar isi; ditranskripsikan seluruhnya (audit khatam):
+
+## Halaman PDF 61 (= cetak 74) — Fihris halaman 2
+
+| Entri (latin) | Arti | hlm. cetak |
+|---|---|---|
+| Li-izaalatis-sihri wa tashilii amriz-zawaaj | Penanggulang sihir + melapangkan jalan nikah | 15 |
+| 'Ilaajul lil-'aqmi wansidaadi qonawaatir-rohhim | Obat mandul & tersumbatnya saluran rahim | 16 |
+| Hijaabun lit-taabi'ah wal-ahloomil-muz'ijah | Hijaab untuk roh-pengikut & mimpi menakutkan | 17 |
+| Sholawaatun liqodhoo-il-haajaat | Shalawat-shalawat penunaikan hajat | 18 |
+| Bukhuurun li-man'is-sihri wal-'aaridh | Dupa penangkal sihir & gangguan | 19 |
+| 'Ilaajul-qoolun | Obat perut (qoolun/kholanj — kolik) | 20 |
+| Qosomun 'azhiimun lir-rizq | Sumpah besar untuk rizki | 21 |
+| THilasmun lil-hubbi wal-'asyq | Tilsam cinta & rindu-asmara | 22 |
+| Liz-zawaaj | Untuk pernikahan | 23 |
+| Li-mu'aalajati dho'fil-masyi 'indal-athfaal | Terapi lemah-berjalan pada anak | 23 |
+| Lir-rizqi mujarrab | Untuk rizki (mujarrab) | 23 |
+| Liqodhoo-il-haajah wat-taghyiir min haalin ilaa haal | Penunaikan hajat & perubahan keadaan | 24 |
+| Lir-rizq | Untuk rizki | 24 |
+| Li-'ilaajit-ta'ab | Obat kelelahan | 25 |
+
+## Halaman PDF 62 (= cetak 75) — Fihris halaman 3
+
+| Entri (latin) | Arti | hlm. cetak |
+|---|---|---|
+| Lisy-syifaa-i minal-amrooh | Untuk kesembuhan dari penyakit | 25 |
+| THilasmun lil-mahabbah | Tilsam mahabbah | 26 |
+| Lil-hushuuli 'alal-'amali wa qodhoo-il-haajah | Mendapat pekerjaan & menunaikan hajat | 27 |
+| Lisy-syifaa-i minal-amrooh | Untuk kesembuhan dari penyakit | 27 |
+| Bukhuurun li-man'il-massi minal-jinni wasy-syaythoon | Dupa penangkal sentuhan jin & setan | 28 |
+| Lir-rizq | Untuk rizki | 29 |
+| THilasmun li-thardit-taabi'ah — mujarrabun wa qowiyy | Tilsam pengusir roh-pengikut, mujarrab & kuat | 30 |
+| Li-'ilaaji waja'ir-ro's | Obat sakit kepala | 31 |
+| 'Ilaaju auja'il-arjul | Obat nyeri kaki/tungkai | 31 |
+| Li-ibthaolis-sihri wa izaalatih | Meniadakan dan menanggulangi sihir | 32 |
+| Khaatim li-thardil-'aaridh was-sihri wal-hawaa-i fii jismil-insaan — dzaat ta-tsiir fa'aal qowiy mujarrab | Khatam pengusir gangguan, sihir, dan 'angin' di tubuh manusia — berpengaruh ampuh, kuat, teruji | 32 |
+| Mu'aalajatul-'aqm | Terapi mandul | 33 |
+| THilasmun li-'adamin-noum 'indal-athfoal | Tilsam (masalah) anak sulit tidur | 34 |
+
+## Halaman PDF 63 (= cetak 76) — Fihris halaman 4
+
+| Entri (latin) | Arti | hlm. cetak |
+|---|---|---|
+| Li-ib'aadisy-syarri wal-hasadi wan-nafasi minal-manzil | Menjauhkan keburukan, dengki, dan *nafas* (hasad-ucap) dari rumah | 35 |
+| Li-man'i tasaaqutisy-sya'r | Menghentikan rambut rontok | 35 |
+| 'Ilaajus-sukar | Obat kencing-manis (diabetes) | 36 |
+| Li-'ilaaji aujaa'il-ma'idah | Obat nyeri lambung | 36 |
+| Li-'ilaajil-'aqmi 'indar-rijaal — fa'aalun jiddan | Obat mandul pada laki-laki, sangat ampuh | 36 |
+| Du'aa-un 'alazh-zhoolim | Do'a (melawan) orang zalim | 37 |
+| Li-'ilaaji katsrotin-noum | Obat banyak-tidur | 38 |
+| Li-'ilaaji dhoyiqin-nafas | Obat sesak napas | 38 |
+| 'Ilaajun lil-idman | Obat ketagihan (adiksi) | 38 |
+| THilasmun li-'ilaajil-idman 'alal-mukhaddiraati wal-khomri waz-zinaa was-sakaa-ir | Tilsam terapi ketagihan narkoba, khamar, zina, dan rokok | 39 |
+| Li-rujuu'il-ghaa-ib | Pulangnya orang yang pergi | 41 |
+| Lil-hushuuli 'alaa furshati 'amal | Mendapat kesempatan kerja | 41 |
+| Li-'ilaajil-maradh | Obat penyakit (umum) | 42 |
+| 'Ilaajun li-daa-its-tsa'lab | Obat daa-uts-tsa'lab | 42 |
+
+## Halaman PDF 64 (= cetak 77) — Fihris halaman 5
+
+| Entri (latin) | Arti | hlm. cetak |
+|---|---|---|
+| Li-'ilaajil-hasad | Obat dengki | 43 |
+| 'Ilaaju aujaa'il-asnaan wal-latsah | Obat nyeri gigi & gusi | 43 |
+| THilasmu jalbin wa mahabbatin 'azhiim | Tilsam jalbu-mahabbah yang agung | 44 |
+| Khaatim li-hifzhid-daar was-sayyooroti minasy-syarri wal-hawaadits | Khatam pelindung rumah & mobil dari keburukan & kecelakaan | 45 |
+| Li-'ilaajil-akzimah wa habbisy-syabaab wash-shadafiyyah | Obat eksim, jerawat, dan psoriatis (shadafiyyah) | 45 |
+| Li-'ilaaji dho'fil-bashor | Obat lemah-penglihatan | 46 |
+| Lish-shulhi bainaz-zaujainil-mutakhoo-shimain | Perdamaian suami-istri yang berselisih | 46 |
+| 'Ilaaju aalaamil-aktaaf war-ro's | Obat nyeri pundak & kepala | 47 |
+| THilasmun lil-'izzi wal-jaah | Tilsam kemuliaan & kedudukan | 49 |
+| Li-thardis-sihri wal-jinn | Pengusir sihir & jin | 50 |
+| Li-thardil-jinn | Pengusir jin | 50 |
+| Li-fakkil-qoid | Pelepas belenggu (tahanan) | 51 |
+| THilasmun li-'ilaajish-shor' | Tilsam obat ayan (shor'/epilepsi) | 52 |
+| 'Ilaajudh-thiroobil-hurmunaat wal-ghudadil-limfaawiyyah | Obat gangguan hormon & kelenjar getah bening | 53 |
+
+## Halaman PDF 65 (= cetak 78) — Fihris halaman 6
+
+| Entri (latin) | Arti | hlm. cetak |
+|---|---|---|
+| Li-tahsiinil-haal | Memperbaiki keadaan | 53 |
+| Li-izaalatil-'aaridh wal-jinn — wa huwa fa'aalun jiddan | Penanggulang gangguan & jin, sangat ampuh | 54 |
+| THilasmun lil-jam'i bainal-ahabbah | Tilsam penghimpun orang-orang yang mengasihi | 55 |
+| Li-taghyiiril-haal — fa'aalatun jiddan | Perubahan keadaan, sangat ampuh | 57 |
+| Lil-qodhoo-i 'alas-sihri wat-taabi'ah | Pemusnah sihir & roh-pengikut | 57 |
+| Li-'ilaaji aujaa'il-katifi wazh-zhoher | Obat nyeri pundak & punggung | 57 |
+| THilasmun lil-mahabbah | Tilsam mahabbah | 58 |
+| Lis-sihri wal-jinn — fa'aalun wa mujarrab | Untuk sihir & jin, ampuh teruji | 59 |
+| Lil-'aaridh | Untuk gangguan | 59 |
+| Lil-irtibaathi waz-zawaaj | Untuk ikatan & pernikahan | 60 |
+| Li-thordil-qoriin wat-taabi'ah | Pengusir qoriin & roh-pengikut | 60 |
+| Lir-rizq | Untuk rizki | 61 |
+| Liz-zawaaj | Untuk pernikahan | 61 |
+| Li-'ilaajil-'aqmi wansidaadi qonawaatir-rohhim 'indal-mar-ah | Obat mandul & sumbatan saluran rahim pada perempuan | 62 |
+
+**Telaah filologi batch 13:** fihris mengkonfirmasi seluruh peta bab terjemahan ini — termasuk bab-bab pada lembar yang **tidak terpindai** (36–37: *obat gula, nyeri lambung, mandul laki-laki, do'a melawan orang zalim*; 40: — entri di 39→41 melompat; 48: lembar kosong antara 47→49; 56: antara 55→57). Artinya: **pindaian ini utuh terhadap yang ia muat**, dan kekosongan nomor adalah lembar hilang saat pemindaian, bukan bab yang terlewat diterjemahkan.
