@@ -664,3 +664,72 @@ Di bawah wafaq tertulis bentuk tawakkal, ditranskripsikan:
 ![Gambar Rajah Asli Halaman PDF 55 (= cetak 67) — wafaq angka mahabbah 3×3](rajah/rajah_p55_wafaq_arqam_mahabbah.png)
 
 ---
+
+# BATCH 12 (Halaman PDF 56–60 = cetak 68, 69, 70, 71, 73) — cetak 72 dan 74 tidak ada dalam pindaian; cetak 73 (awal Daftar Isi) menyusul di sini
+
+## Halaman PDF 56 (= cetak 68) — LIR-RIZQ (tulisan za'faran sebelum zhuhur) + 'ILAAJUL-QURHAH (obat tukak/lambung — bahan)
+
+**LIR-RIZQ:** menurut teks, ditulis dengan **za'faran pada kertas sebelum shalat zhuhur**:
+
+> *"Yaallaah yaallaah yaallaah — yaa hayyu yaa qayyuum (3 kali) — yaa dzal-jalaali wal-ikroom (3 kali) — as-aluka bismikal-a'zhami an tarzuqonii rizqon halaalan thoyyiban bi-rohmatikal-waasi'ah — yaa dzal-ma'ruufil-ladzii laa yanqothi'u abadan wa laa yuhshiihi 'adadan."*
+> "Ya Allah, Ya Allah, Ya Allah — wahai Yang Hidup, wahai Yang Berdiri-menegakkan (3 kali) — wahai Pemilik Keagungan dan Kemuliaan (3 kali) — aku memohon kepada-Mu dengan nama-Mu yang paling agung agar Engkau karuniakan kepadaku rizki yang halal lagi baik, dengan rahmat-Mu yang luas — wahai Pemilik kebajikan yang tidak pernah putus selamanya dan tidak terhitung bilangannya."
+
+**Telaah filologi:** seluruhnya untaian tawassul asmaul-husna (al-Hayy, al-Qayyuum, Dzuul-Jalaali wal-Ikraam, al-Ma'ruuf) — kategori dzikir, tidak memakai rajah.
+
+**'ILAAJUL-QURHAH (obat tukak — bahan dapur):** menurut teks — **otak domba** dimasak setengah matang lalu dicampur **minyak zaitun**, dimakan setelah menahan diri dari makan selama 3 jam; kemudian **ampas/sum-sum yang ada di dalam perut buah delima** dicampur dengan **jus pisang** lalu dimakan; pekerjaan ini diulang **tujuh hari** (bahan thibb-shaahib/populer, dicatat kajian; tidak ada unsur ruhani).
+
+## Halaman PDF 57 (= cetak 69) — THILASM FA'AAL WA MUJARRAB LIR-RIZQ (spiral huruf — halzuuni)
+
+Menurut teks: *"wa huwa thilasmun quwiyyun jiddan — tukatabuhu 'alaa ihdoo jidraanil-manzil fii makaanin ghairil-mar-i."* — rajah ini "tilsam yang sangat kuat; ditulis pada salah satu dinding rumah di tempat yang tak terlihat" (seperti kolong/atap).
+
+**Bentuk rajah:** huruf-huruf terputus besar dan kecil tersusun **melingkar spiral** (corak *halzuuni*) mengecil ke pusat; pada beberapa lintasan terbaca potongan-potongan (sesuai kemampuan baca): "**dam-haa-miim / laa-waw-daal-miim-haa / thaa-qaaf-thaa-alif-raa-haa / alif-lam-daal...**" dan jeruji angka/huruf rapat *(rajah — tidak terbaca penuh; ditulis apa adanya)*. Lambang ini golongan **khootim halzuuni** (lingkar-pilin huruf majmu') yang di kalangan penulis rajah dihormati sebagai "benteng asma"; kajian hanya memetakan bentuknya, **tidak** menyampaikan bacaan/kunci apa pun.
+
+![Gambar Rajah Asli Halaman PDF 57 (= cetak 69) — spiral huruf rizq](rajah/rajah_p57_tilsam_rizq_halzuni.png)
+
+## Halaman PDF 58 (= cetak 70) — LIJALBIR-RIZQ MUJARRAB WA FA''AAL (wafaq kalimat surat an-Nashr)
+
+Menurut teks: *"tukatibuhu biz-za'faraan 'alaa waroqatin wa yuudha'u fil-manzil."* — ditulis dengan za'faran di kertas dan disimpan di rumah.
+
+**Bentuk rajah:** **wafaq kalimaat** (bukan angka): sebuah kotak besar dibagi sel-sel (pada naskah: 9 kolom × 10 baris = 90 sel) yang **diisi kata per kata dari QS an-Nashr**, disusun **mundur-menyilang dari sel kanan-atas** sehingga rangkaiannya berjalan diagonal:
+
+> **«Idzaa jaa-a nashrullaahi wal-fath — wa-ro-aitan-naasa yadkhuluuna fii diinillaahi afwaajan — fa-sabbih bi-hamdi robbika wastagfirh — innahuu kaana tawwaabaa»**
+> "Apabila telah datang pertolongan Allah dan kemenangan, dan engkau melihat manusia berbondong-bondong masuk agama Allah, maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya; sungguh Dialah Yang Maha Penerima taubat." (QS an-Nashr: 1–3)
+
+**Telaah filologi:** teknik wafaq-kalimah begini = memedakan ayat ke sel-sel untuk "menggenggam" keseluruhan surat pendek dalam satu gambar; an-Nashr populer di tradisi rizki (karena ungkapan "nashr" dan "fath"). Kajian mencatat susunannya saja.
+
+![Gambar Rajah Asli Halaman PDF 58 (= cetak 70) — wafaq kalimat an-Nashr](rajah/rajah_p58_wafaq_arqam_rizq.png)
+
+## Halaman PDF 59 (= cetak 71) — THILASM LITHARDIT-TAABI'AH WA 'ILAAJI DAA-ITS-TSA'LAB WAL-BUHAQ (tilsam tsa'lab & bercak kulit)
+
+Menurut teks: tilsam ini ditulis pada **kain merah**, dicelup ke **minyak hitam**, lalu **dibakar waktu maghrib**; tempat mengerjakannya di **hammaam (ruang basah)**, setelahnya dibaca **surat Yaasiin** dengan niat kesembuhan — diulang **tujuh hari**. ⚠ (bahan-bakar dalam ruangan — praktik fisiknya berbahaya; kajian cukup memaparkan redaksinya, tanpa mendorong pelaksanaan).
+
+**Bentuk rajah:** bingkai empat sisi; di tepiannya huruf-huruf dan angka-angka melingkar (antara lain di tepi atas dan bawah terbaca deretan angka seperti **١٦٨٣ م و و و** dan **١٦٦٦ ١ د ١ ٤ ٧ ٥** beserta goresan *mimm-miim/maimun* tidak terbaca *(rajah — angka dicatat apa adanya sebagai bahan filologi, bukan dibaca maknanya)*); di dalam bingkai ada **busur garis bertanda** dan deretan huruf-rajah miring. Di tepi kiri (vertikal) tertulis tawakkal:
+
+> *"Tawakkaluu yaa khodaama haadzat-thilsami bi-an tamdhuu 'alaa kulli 'aaridhin wa taabi'atin fii jasadi fulaan ibni fulaanah — al-wahaa al-wahaa — as-saa'ah as-saa'ah."*
+> "Laksanakanlah, wahai para khadam tilsam ini: musnahkanlah setiap gangguan dan roh-pengikut dari tubuh si Fulan bin Fulanah — segera, segera, sekarang, sekarang."
+
+**Telaah filologi:** **daa-uts-tsa'lab** (penyakit yang "memakan seperti rubah" — koreng/kusta menahun) dan **buhaq** (bercak kulit) di masa silam digolongkan gangguan ('aaridh). Penggabungan "thord taabi'ah + obat tsa'lab" dalam satu rajah khas kitab mujarrobat. Kajian mencatat fungsi pembacaannya; **tidak disampaikan cara penggunaannya** (bahaya bakar-bakaran; obat kulit masa kini jauh lebih aman).
+
+![Gambar Rajah Asli Halaman PDF 59 (= cetak 71) — tilsam thord taabi'ah bingkai busur](rajah/rajah_p59_tilsam_tobiah_buhaq.png)
+
+## Halaman PDF 60 (= cetak 73) — AL-FIHRIS (Daftar Isi — halaman pertama)
+
+Daftar isi kitab dimulai di sini (penomoran halaman mengacu halaman cetak — berguna mengaudit terjemahan ini):
+
+| Entri (latin) | Arti | hlm. cetak |
+|---|---|---|
+| al-Muqaddimah | Mukaddimah | 5 |
+| Thilasmun fa'aalun wa mujarrabun li-izaalatil-'aaridh | Tilsam ampuh teruji penanggulang gangguan | 7 |
+| Lil-mawaddah wal-mahabbah bainan-naas | Untuk kecintaan antarmanusia | 9 |
+| Mujarrabatun fa'aalatun jiddan lil-'izzati 'alazh-zhoolim | Mujarrab sangat ampuh mengalahkan orang zalim | 9 |
+| Lil-ghinaa | Untuk kemapanan | 10 |
+| Li-raf'il-faqr (mujarrab) | Menyingsingkan kemiskinan | 10 |
+| Hijaabun lil-injaab | Hijaab untuk keturunan | 11 |
+| Lir-rizq | Untuk rizki | 12 |
+| Li-qadhaa-id-dain | Untuk melunasi hutang | 12 |
+| **THilasmun li-thardi ummish-shibyaan** | Tilsam penanggulang **Umm ash-Shibyaan** | 13 |
+| Li-ibthaalis-sihri wal-'amal | Penangkal sihir dan 'amal (perbuatan gaib) | 15 |
+
+**Telaah filologi:** entri "ummish-shibyaan" mengkonfirmasi nama rajah cetak 13. Daftar isi juga meneguhkan bahwa **hlm. cetak 8, 14 dst. memang bukan pembuka bab baru** (bagian lanjutan), sehingga kesenjangan penomoran terjemahan ini **bukan** kehilangan teks. *(Sambungan fihris di halaman PDF 61–62.)*
+
+---
