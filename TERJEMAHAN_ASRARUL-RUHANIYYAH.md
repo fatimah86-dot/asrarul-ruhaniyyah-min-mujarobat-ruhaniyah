@@ -833,3 +833,48 @@ Semua lima halaman ini adalah lanjutan daftar isi; ditranskripsikan seluruhnya (
 | Li-'ilaajil-'aqmi wansidaadi qonawaatir-rohhim 'indal-mar-ah | Obat mandul & sumbatan saluran rahim pada perempuan | 62 |
 
 **Telaah filologi batch 13:** fihris mengkonfirmasi seluruh peta bab terjemahan ini — termasuk bab-bab pada lembar yang **tidak terpindai** (36–37: *obat gula, nyeri lambung, mandul laki-laki, do'a melawan orang zalim*; 40: — entri di 39→41 melompat; 48: lembar kosong antara 47→49; 56: antara 55→57). Artinya: **pindaian ini utuh terhadap yang ia muat**, dan kekosongan nomor adalah lembar hilang saat pemindaian, bukan bab yang terlewat diterjemahkan.
+
+---
+
+# BATCH 14 (Halaman PDF 66–67 = cetak 79 + sampul belakang) — penutup fihris dan penutup kitab · KHATAM
+
+## Halaman PDF 66 (= cetak 79) — Fihris halaman 7 (terakhir)
+
+| Entri (latin) | Arti | hlm. cetak |
+|---|---|---|
+| Li-jalbil-ghaa-ib | Menjemput yang absen/hilang | 63 |
+| Tawakkal li-tahsiinil-haal — muhimmun jiddan | Tawakkal memperbaiki keadaan, sangat penting | 63 |
+| Liz-zawaaj au lil-injaab | Untuk pernikahan atau keturunan | 64 |
+| THilasmun lir-rizq | Tilsam untuk rizki | 65 |
+| Khaatim li-izaalatis-sihr | Khatam penanggulang sihir | 66 |
+| THilasmun lil-mahabbah | Tilsam mahabbah | 67 |
+| Lir-rizq | Untuk rizki | 68 |
+| 'Ilaajul-qurhah | Obat tukak | 68 |
+| THilasmun fa'aalun wa mujarrabun lir-rizq | Tilsam ampuh teruji untuk rizki | 69 |
+| Li-jalbir-rizqi mujarrabun wa fa'aal | Penjemput rizki, teruji dan ampuh | 70 |
+| THilasmun li-thardit-taabi'ah wa 'ilaaj daay-tsa'lab wal-buhaq | Tilsam pengusir roh-pengikut + obat daa-uts-tsa'lab & buhaq | 71 |
+
+**Telaah filologi:** daftar isi berakhir di halaman cetak 71 — cocok dengan isi terakhir kitab. Seluruh 7 halaman fihris telah mendaftar **persis** bab-bab yang telah diterjemahkan di atas dari halaman sampul hingga halaman 71; tidak ada bab di fihris yang tidak ketemu dalam pindaian, dan tidak ada isi pindaian yang tidak terdaftar di fihris — kecuali **sampul/identitas cetak** (halaman 1–4 cetak tidak dipindai) dan kolofon.
+
+## Halaman PDF 67 (= sampul belakang)
+
+**Deskripsi:** bidang awan senja kuning keemasan; di tengah atas ditampilkan **miniatur sampul depan** kitab (menegaskan identitas terbit); di bawah tengah kolofon merah-putih:
+
+> **دار العلوم الفلكية**
+> **طبع في لبنان**
+
+**Latin:** *Daarul-'Uluumil-Falakiyyah — thubi'a fii Lubnaan.*
+**Terjemahan:** "Daar al-'Uluum al-Falakiyyah (Balai Pustaka Ilmu-ilmu Falak) — dicetak di Lebanon."
+
+**Telaah filologi penutup:** motif awan dan cahaya senja adalah gaya khas kolofon terbitan populer Beirut; tidak memuat bacaan ruhani. Dengan demikian seluruh permukaan teks terbitan ini — **sampul depan, seluruh isi (yang terpindai), tujuh halaman daftar isi, dan sampul belakang** — telah ditranskripsikan dan diterjemahkan.
+
+---
+
+# KHATAM — PENANDA TAMAT
+
+**Kitab:** Asraar Ruuhaniyyah min Mujarrabaatil-'Aalimir-Ruuhaanii — Abu 'Ali asy-Syaibaani (i'daad: Ahmad al-'Iraaqii; Daar al-'Uluum al-Falakiyyah, Lebanon).
+**Ruang lingkup terjemahan:** 67/67 halaman PDF pindaian (halaman cetak yang terpindai: sampul, 7, 9–13, 15–35, 38–39, 41–47, 49–55, 57–71, fihris 73–79, sampul belakang; halaman cetak 1–6, 8, 14, 36–37, 40, 48, 56, 72 tidak ada dalam pindaian).
+**Rajah/wafaq/tilsam:** 18 potongan gambar asli pada folder `rajah/` (resolusi 300 dpi, latar putih) — dirujuk dari 18 halaman pemiliknya.
+**Kaidah pembacaan:** kajian filologi; wasiat kitab ***"Laa tasta'miluuhu illaa fii maa yurdhillaah"*** (jangan dipergunakan kecuali untuk yang diridhai Allah) dan kaidah ***"Laa dhororo wa laa dhiroor"*** (tidak boleh memudaratkan) menjadi pagar semua bab bertanda peringatan.
+
+*Selesai khatm edisi terjemahan — seluruh teks disampaikan apa adanya sebagai bahan kajian, tanpa kewajiban mengamalkan satu pun babnya.*
