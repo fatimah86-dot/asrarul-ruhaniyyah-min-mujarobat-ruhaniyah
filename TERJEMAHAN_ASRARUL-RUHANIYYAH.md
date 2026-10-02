@@ -580,3 +580,87 @@ Penutup bab: "...supaya selesai pada hari Kamis sebelum azan maghrib, lalu bersu
 **L'ILAAJIL-'AQM WA INSIDAADI QONAWAATIR-ROHHIM 'INDAL-MAR-AH** (mandul dan tersumbatnya saluran rahim pada perempuan — bahan): biji **rasydaad** (tumbuhan selada-air) 50 gr, biji **karafs** (seledri) 50 gr, biji **fijal** (lobak) 50 gr, biji bawang 50 gr, biji **qurfah** 50 gr, biji **kronful** (cengkih) 50 gr, **habbatus-saudaa** (jintan hitam) 50 gr — *(lanjut)*.
 
 ---
+
+# BATCH 11 (Halaman PDF 51–55 = cetak 63, 64, 65, 66, 67)
+
+## Halaman PDF 51 (= cetak 63) — penutup 'ILAAJUL-'AQM (bahan mandul) + LUJALB/LIJALBIL-GHAA-IB (memanggil yang hilang) + pembuka TAWAKKAL LITAHSIINIL-HAAL
+
+**Penutup bahan (kemandulan):** *"Tukhlatu haadzihil-budzuur sawiyyah wa tunqa'u bil-maa-i limuddata arba'ati ayyaam tsummu yusyrabu minhaa nishfu kuubi syaay yaumiyyan fish-shabhi wal-maghribi limuddata 21 yauman."* — "Semua biji-bijian itu dicampur merata lalu direndam air selama empat hari; kemudian diminum setengah cangkir teh setiap pagi dan petang selama 21 hari." (kajian bahan 'a-syaab, dicatat sebagaimana naskah).
+
+**LIJALBIL-GHAA-IB (menjemput orang yang pergi/absen):** dibaca **surat Yaasiin** sedangkan orangnya berada di atas atap rumah, kemudian bersujud dan mengucapkan 100 kali:
+
+> *"Subhaanal-ladzii biyadihi malakuutu kulli syai-in wa ilaihi turja'uun — yaa mughiits yaa mughiits yaa mughiits."*
+> "Maha Suci Tuhan yang di tangan-Nya kerajaan segala sesuatu dan kepada-Nya kamu kembali — wahai Sang Penolong, wahai Sang Penolong, wahai Sang Penolong."
+
+**Telaah filologi:** potongan *"biyadihi malakuutu kulli syaiin wa ilaihi turja'uun"* adalah ujung QS Yaasiin ayat 83; isinya murni tasbih dan isytaaq (rindu-minta pertolongan) — kategori dzikir, tidak ber-media rajah.
+
+**Pembuka TAWAKKAL LITAHSIINIL-HAAL MUHIMMUN JIDDAN (tawakkal memperbaiki keadaan — dinilai penulis "sangat penting"):** ditulis dengan **za'faran pada awal bulan Muharram** (hari pertama atau kedua), pukul sebelas siang, pada **pita kertas sepanjang tubuh orang yang dimaksud**, dimulai dengan **muqaddimaat/mukaddimah surah-surah Al-Qur'an (ayat pertama** — lanjut halaman berikut).
+
+## Halaman PDF 52 (= cetak 64) — penutup TAWAKKAL + LIZ-ZAWAAJ AU LIL-INJAAB (untuk pernikahan atau keturunan)
+
+**Penutup: tawakkal memperbaiki keadaan** — (sambungan) "...**dari setiap surah**, didahului penulisan **basmalah**; setelah itu ditulis tawakkal ini:"
+
+> *"Allaahumma as-aluka bismikal-'azhiimith-thaahirith-thuhr — Allaahumma as-aluka bi-haqqi muhammadin wa 'aliiy wa faathimah wal-hasan wal-husain — an tughayyira haala fulaan ibni fulaanah bi-husni haalik."*
+> "Ya Allah, aku memohon kepada-Mu dengan nama-Mu yang agung lagi suci; Ya Allah, aku memohon dengan haq Muhammad, Ali, Fathimah, Hasan dan Husain — agar Engkau mengubah keadaan si Fulan bin Fulanah dengan kebaikan keadaan-Mu."
+
+**Telaah filologi:** struktur tawassul lima nama Ahlul Bayt ini adalah corak do'a khas lingkungan mujarrobat Siria/Irak bermazhab cinta-Ahlul-Bayt; kajian mencatatnya sebagai wujud retorika penyusun, bukan tafsir hukum.
+
+**LIZ-ZAWAAJ AU LIL-INJAAB (untuk menikah atau mendapat anak):** pada **Jumat terakhir bulan Ramadhan** dikerjakan **shalat hajat** dengan niat pernikahan atau keturunan, lalu dibaca **surat Thaahaa 3 kali**, setelahnya didoakan:
+
+> *"Allaahumma as-aluka bi-qudratikal-latii tughayyiru bihal-asyyaa' — Allaahumma as-aluka bi-'izzatik wa jalaali haiibatik wa 'azhiimi qudratik wa fii ma'qili 'izzik — wa as-aluka bismikal-ladzii taquulu bihi lisy-syai-i kun fa-yakuun — as-aluka an tushalliya 'alaa muhammadin wa aali muhammad — wa an taj'ala lii farajan bish-sholaati 'alaa muhammadin wa aali muhammad."*
+> "Ya Allah, aku memohon kepada-Mu dengan kekuasaan-Mu yang dengannya Engkau mengubah segala sesuatu; Ya Allah, aku memohon dengan keperkasaan-Mu, keagungan kewibawaan-Mu, besarnya kekuasaan-Mu dan benteng keperkasaan-Mu; dan aku memohon dengan nama-Mu yang dengannya Engkau berfirman kepada sesuatu 'jadilah' maka jadilah ia; aku memohon agar Engkau melimpahkan shalawat atas Muhammad dan keluarganya, dan agar Engkau beri aku jalan lapang berkat shalawat atas Muhammad dan keluarganya."
+
+Lalu bersujud dan membaca: ***"Rabbi laa tadzarnii fardaw-wa anta khairul-waaritsiin"*** — "Ya Tuhanku, janganlah Engkau biarkan aku seorang diri, padahal Engkaulah pewaris yang terbaik" (QS al-Anbiyaa': 89 — do'a Nabi Zakariyya memohon keturunan; sangat cocok dengan judul bab).
+
+## Halaman PDF 53 (= cetak 65) — THILASM LIR-RIZQ (rajah pintu rizki untuk ditukang di pintu toko)
+
+Menurut teks: tilsam ini **ditulis pada kertas dan digantung di pintu toko atau tempat usaha**. Rajahnya membawa ayat:
+
+> **«Innal-ladziina yatluuna kitaabal-laah wa aqaamush-sholaatah wa anfaquu mimmaa razaqnaahum sirraw-wa 'alaaniyyah yarjuuna tijaaratal-lan tabuur — liyuwaffiyahum ujuurahum wa yaziidahum min fadhlih, innahuu ghafuurun syakuur»**
+> "Sungguh orang-orang yang selalu membaca Kitab Allah, mendirikan shalat dan menginfakkan sebagian rizki yang Kami anugerahkan kepadanya secara sembunyi dan terang-terangan, mereka itulah yang mengharapkan perdagangan yang tidak akan rugi — agar Allah menyempurnakan pahala bagi mereka dan menambahkan dari karunia-Nya. Sungguh Allah Maha Pengampun lagi Maha Mensyukuri." (QS Faathir: 29–30)
+
+Di bawah ayat ada susunan lambang (kajian): **segitiga**, **bintang segi enam**, tulisan-tulisan gundul khas rajah (di antaranya terbaca **"الـم ش ر ع / الـم ف ر ع"** dan bentuk **"و ها١١١١"/ waw-haa dan empat angka satu** serta kotak-kotak kecil kosong) *(unsur rajah — tidak diberi talaqqi; maknanya sesuai khazanah 'ilmu-huruuf penyusun)*, lalu penggalan ayat:
+
+> **«Wa man aufaa bi-'ahdihii minal-laah — fastabsyiruu bi-bai'ikumul-ladzii baaya'tum bihi — wa dzaalika huwal-fauzul-'azhiim»**
+> "...dan siapa yang menepati janjinya kepada Allah — maka bergembiralah dengan jual-beli yang telah kamu janjikan itu; dan yang demikian itulah kemenangan yang besar." (QS at-Taubah: 111, dikutip dengan redaksi gaya naskah)
+
+**Telaah filologi:** pilihan dua ayat "tijaarah-lan-tabuur" dan "fastabsyiruu bi-bai'ikum" menunjukkan susun-susun (*tahaqquq*) rajah rizki: seluruh "kekuatan" rajah dipasrahkan pada ayat, bukan pada lambang — tetapi lambang-lambang itu tetap dicatat sebagai bahan budaya dan **tidak** diberi cara penggunaannya.
+
+![Gambar Rajah Asli Halaman PDF 53 (= cetak 65) — tilsam rizq segitiga, bintang, lambang](rajah/rajah_p53_tilsam_rizq.png)
+
+## Halaman PDF 54 (= cetak 66) — KHAATIM LI-IZAALATIS-SIHR (khatam penanggulang sihir — teks tanpa gambar)
+
+Menurut teks: khatam ini **ditulis pada kertas; ditaruh di muka rumah atau dibawa dalam saku**. Susunan teksnya (ditranskripsikan apa adanya — kode angka/huruf dibaca seperti tertulis):
+
+> **ط ٥ ١٨٨١**
+> **م ١١١ ومره مر لا ١ ط ط د**
+
+(pembacaan: *thaa' — 5 — 1881 ; miim — 111 — wa-marra — mar — laa — 1 — thaa' — thaa' — daal*; kode-kode semacam ini dalam tradisi bilangan ('adadiyyaat) biasanya dipecah dari **nilai abjad** sebuah nama/ayat; tanpa kunci penyusun kita **tidak menduga-duga isinya** — dicatat bentuknya saja.)
+
+Lalu teks utamanya:
+
+> *"Yaa haafizh, yaa hayy, yaa qayyuum — «lau anzalnaa haadzal-qur-aana 'alaa jabalil-la-ra-aitahuu khaasyi'am-mutashaddi'am-min khasyyatillaah — wa tilkal-amtsaalu nadhribuhaa lin-naasi la'allahum yatafakkaruun» — Allaahummasyfi man lahul-balaa-u saahibah — bi-haqqi yaa «wa nunazzilu minal-qur-aani maa huwa syifaa-uw-wa rohmatul-lil-mu'miniin wa laa yaziiduzh-zhoolimiina illaa khosaaro» — kahlaa kahlaa — irham irham — tarham tarham — 'aqadtum farqiis farqiis — al-'ajal al-'ajal — al-wahaa al-wahaa — as-saa'ah as-saa'ah."*
+
+Terjemahan bagian yang berbahasa: "Wahai Sang Penjaga, wahai Yang Hidup, wahai Yang Berdiri-menegakkan — *«Kalau Kami turunkan Al-Qur'an ini kepada gunung, niscaya engkau melihat gunung itu tunduk lagi pecah karena takut kepada Allah; perumpamaan-perumpamaan itu Kami kemukakan kepada manusia agar mereka berpikir»* (QS al-Hasyr: 21) — Ya Allah sembuhkanlah siapa yang ditimpa bala' ini — demi kebenaran *«Dan Kami menurunkan dari Al-Qur'an apa yang menjadi penawar dan rahmat bagi kaum mukminin, sementara bagi orang zalim hanya menambah kerugian»* (QS al-Israa': 82) — *kahlaa-kahlaa* (bentuk ajakan khas rajah, tidak berbahasa), kasihanilah, kasihanilah; *farqiis-farqiis* (nama khadam menurut kunci naskah) — cepat, segera, sekarang."
+
+**Telaah filologi:** walaupun judulnya "izālatus-sihr", isi khatam ini ayat murni + panggilan asma + deretan "al-'ajal/al-wahaa/as-saa'ah" (pola penutup rajah umum). Kajian mencatat polanya; **bentuk sumpah/kontak-khadamnya tidak diberi panduan pakai**.
+
+## Halaman PDF 55 (= cetak 67) — THILASM LIL-MAHABBAH (wafaq mahabbah Sabtu — analisis filologi)
+
+Menurut teks: ditulis dengan **za'faran pada kertas, hari Sabtu sebelum terbit matahari**, lalu dibawa. Di atas wafaq tertulis potongan firman:
+
+> **«Wa ulqiitha 'alaika mahabbatam-minnii wa li-tushna'a 'alaa 'iinii»**
+> "Dan Aku limpahkan kepadamu kasih-sayang yang datang dari-Ku, agar engkau dibesarkan di bawah pengawasan-Ku." (QS Thaahaa: 39 — wahyu tentang bayi Musa)
+
+Wafaq-nya **rubaa'iy/tsulaatsiy 3×3** berangka (dari kanan ke kiri): **1361 – 1330 – 1363 / 1368 – 1344 – 1366 / 1367 – 1340 – 1369** *(pada sel tengah bawah manuskrip menulis angka yang agak kabur, dibaca 1340 menurut bentuk baris)*; setiap sudut wafaq diberi lambang kecil khas rajah. Deretan bilangan empat angka di tradisi **'ilmu wafaq** umumnya berputar di sekitar jumlah tertentu yang dianggap "kunci nama" oleh penyusun; kajian tidak memecahkannya lebih jauh dari bentuk tertulis.
+
+Di bawah wafaq tertulis bentuk tawakkal, ditranskripsikan:
+
+> *"Tawakkaluu yaa khodaama haadzihil-aayaat bijalbi mahabbatii fii quluubin-naas au fii qolbi fulaan ibni fulaanah. Uqsimu 'alaikum bi-quwwatillaah — uqsimu 'alaikum bi-qudratillaah — uqsimu 'alaikum bi-'izzatillaah."*
+> "Laksanakanlah, wahai para khadam ayat-ayat ini: hadirkanlah cinta-kasihku di hati manusia atau di hati si Fulan bin Fulanah. Aku bersumpah atas kalian dengan kekuatan Allah — dengan kekuasaan Allah — dengan keperkasaan Allah."
+
+**Telaah filologi:** kategori mahabbah termasuk **jalbu-shughl** (menarik hati) — kajian merekam susunannya (ayat Thaahaa: 39 + wafaq + tawakkal tiga sumpah pada sifat Allah), **tanpa petunjuk praktik**; terjemajan diberi agar isi teks tuntas terbaca.
+
+![Gambar Rajah Asli Halaman PDF 55 (= cetak 67) — wafaq angka mahabbah 3×3](rajah/rajah_p55_wafaq_arqam_mahabbah.png)
+
+---
